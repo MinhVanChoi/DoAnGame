@@ -1,0 +1,1796 @@
+Using pre-set license
+Built from '2022.3/staging' branch; Version is '2022.3.43f1 (85497d293fa1) revision 8735101'; Using compiler version '192829333'; Build Type 'Release'
+OS: 'Windows 11  (10.0.22631) 64bit CoreSingleLanguage' Language: 'en' Physical Memory: 15724 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 1
+
+COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2022.3.43f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker5
+-projectPath
+C:/Users/ADMIN/Downloads/Đồ Án CNTT - Cô An/Project-01/Game2D_H
+-logFile
+Logs/AssetImportWorker5.log
+-srvPort
+59062
+Successfully changed project path to: C:/Users/ADMIN/Downloads/Đồ Án CNTT - Cô An/Project-01/Game2D_H
+C:/Users/ADMIN/Downloads/Đồ Án CNTT - Cô An/Project-01/Game2D_H
+[UnityMemory] Configuration Parameters - Can be set up in boot.config
+    "memorysetup-bucket-allocator-granularity=16"
+    "memorysetup-bucket-allocator-bucket-count=8"
+    "memorysetup-bucket-allocator-block-size=33554432"
+    "memorysetup-bucket-allocator-block-count=8"
+    "memorysetup-main-allocator-block-size=16777216"
+    "memorysetup-thread-allocator-block-size=16777216"
+    "memorysetup-gfx-main-allocator-block-size=16777216"
+    "memorysetup-gfx-thread-allocator-block-size=16777216"
+    "memorysetup-cache-allocator-block-size=4194304"
+    "memorysetup-typetree-allocator-block-size=2097152"
+    "memorysetup-profiler-bucket-allocator-granularity=16"
+    "memorysetup-profiler-bucket-allocator-bucket-count=8"
+    "memorysetup-profiler-bucket-allocator-block-size=33554432"
+    "memorysetup-profiler-bucket-allocator-block-count=8"
+    "memorysetup-profiler-allocator-block-size=16777216"
+    "memorysetup-profiler-editor-allocator-block-size=1048576"
+    "memorysetup-temp-allocator-size-main=16777216"
+    "memorysetup-job-temp-allocator-block-size=2097152"
+    "memorysetup-job-temp-allocator-block-size-background=1048576"
+    "memorysetup-job-temp-allocator-reduction-small-platforms=262144"
+    "memorysetup-allocator-temp-initial-block-size-main=262144"
+    "memorysetup-allocator-temp-initial-block-size-worker=262144"
+    "memorysetup-temp-allocator-size-background-worker=32768"
+    "memorysetup-temp-allocator-size-job-worker=262144"
+    "memorysetup-temp-allocator-size-preload-manager=33554432"
+    "memorysetup-temp-allocator-size-nav-mesh-worker=65536"
+    "memorysetup-temp-allocator-size-audio-worker=65536"
+    "memorysetup-temp-allocator-size-cloud-worker=32768"
+    "memorysetup-temp-allocator-size-gi-baking-worker=262144"
+    "memorysetup-temp-allocator-size-gfx=262144"
+Player connection [28576]  Target information:
+
+Player connection [28576]  * "[IP] 192.168.56.1 [Port] 0 [Flags] 2 [Guid] 3232419711 [EditorId] 3232419711 [Version] 1048832 [Id] WindowsEditor(7,LAPTOP-7D271VJA) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [28576]  * "[IP] 26.250.198.219 [Port] 0 [Flags] 2 [Guid] 3232419711 [EditorId] 3232419711 [Version] 1048832 [Id] WindowsEditor(7,LAPTOP-7D271VJA) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [28576]  * "[IP] 192.168.101.4 [Port] 0 [Flags] 2 [Guid] 3232419711 [EditorId] 3232419711 [Version] 1048832 [Id] WindowsEditor(7,LAPTOP-7D271VJA) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+
+Player connection [28576] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [28576] Host joined alternative multi-casting on [225.0.0.222:34997]...
+[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+Refreshing native plugins compatible for Editor in 19.89 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2022.3.43f1 (85497d293fa1)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2022.3.43f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/ADMIN/Downloads/Đồ Án CNTT - Cô An/Project-01/Game2D_H/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 3050 Laptop GPU (ID=0x25a2)
+    Vendor:   NVIDIA
+    VRAM:     3991 MB
+    Driver:   30.0.15.1274
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2022.3.43f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2022.3.43f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2022.3.43f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56056
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.43f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.43f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.008922 seconds.
+- Loaded All Assemblies, in  0.435 seconds
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  0.316 seconds
+Domain Reload Profiling: 748ms
+	BeginReloadAssembly (130ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (0ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (1ms)
+	RebuildCommonClasses (44ms)
+	RebuildNativeTypeToScriptingClass (17ms)
+	initialDomainReloadingComplete (76ms)
+	LoadAllAssembliesAndSetupDomain (166ms)
+		LoadAssemblies (129ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (163ms)
+			TypeCache.Refresh (162ms)
+				TypeCache.ScanAssembly (149ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (1ms)
+	FinalizeReload (316ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (267ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (12ms)
+			SetLoadedEditorAssemblies (6ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (3ms)
+			ProcessInitializeOnLoadAttributes (201ms)
+			ProcessInitializeOnLoadMethodAttributes (44ms)
+			AfterProcessingInitializeOnLoad (0ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (0ms)
+========================================================================
+Worker process is ready to serve import requests
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.632 seconds
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Package Manager log level set to [2]
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.010 seconds
+Domain Reload Profiling: 1640ms
+	BeginReloadAssembly (129ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (5ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (21ms)
+	RebuildCommonClasses (32ms)
+	RebuildNativeTypeToScriptingClass (9ms)
+	initialDomainReloadingComplete (40ms)
+	LoadAllAssembliesAndSetupDomain (420ms)
+		LoadAssemblies (290ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (203ms)
+			TypeCache.Refresh (166ms)
+				TypeCache.ScanAssembly (150ms)
+			ScanForSourceGeneratedMonoScriptInfo (27ms)
+			ResolveRequiredComponents (9ms)
+	FinalizeReload (1011ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (860ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (6ms)
+			SetLoadedEditorAssemblies (4ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (86ms)
+			ProcessInitializeOnLoadAttributes (679ms)
+			ProcessInitializeOnLoadMethodAttributes (77ms)
+			AfterProcessingInitializeOnLoad (6ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (9ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 5.78 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 6049 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 35 unused Assets / (348.0 KB). Loaded Objects now: 6519.
+Memory consumption went from 223.2 MB to 222.8 MB.
+Total: 7.136000 ms (FindLiveObjects: 0.459200 ms CreateObjectMapping: 0.214400 ms MarkObjects: 6.247200 ms  DeleteObjects: 0.213800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:scripting/monoscript/fileName/EnemyAI.cs: ac5d928c2e7f4dc32564e545998185f9 -> b23c04a72171da1bfba3c740e359e309
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:scripting/monoscript/fileName/PlayerController.cs: 5b090d859ab09be631dc3b0f203f9571 -> d93a52a180fbbe603a59e9aa6da73c83
+  custom:CustomObjectIndexerAttribute: 72b91833f83ae208fae7752999fa3104 -> 
+  custom:scripting/monoscript/fileName/Player Controls.cs: 34c6ff9cf0aa0d720e612550af5c5d26 -> 849ed7f5b11c9db237ef61b01c5a5104
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:scripting/monoscript/fileName/EnemyPathfinding.cs: 12babaef6e87e55c401478cd4221230b -> a9bce29876a0a11d972ceeffd6469af8
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  1.146 seconds
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.006 seconds
+Domain Reload Profiling: 2150ms
+	BeginReloadAssembly (807ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (655ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (49ms)
+	RebuildCommonClasses (40ms)
+	RebuildNativeTypeToScriptingClass (9ms)
+	initialDomainReloadingComplete (34ms)
+	LoadAllAssembliesAndSetupDomain (254ms)
+		LoadAssemblies (302ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (20ms)
+			TypeCache.Refresh (6ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (12ms)
+	FinalizeReload (1007ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (784ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (7ms)
+			SetLoadedEditorAssemblies (5ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (91ms)
+			ProcessInitializeOnLoadAttributes (598ms)
+			ProcessInitializeOnLoadMethodAttributes (74ms)
+			AfterProcessingInitializeOnLoad (7ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (18ms)
+Refreshing native plugins compatible for Editor in 10.02 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 5896 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 20 unused Assets / (316.6 KB). Loaded Objects now: 6525.
+Memory consumption went from 197.3 MB to 196.9 MB.
+Total: 10.743300 ms (FindLiveObjects: 1.070100 ms CreateObjectMapping: 0.780200 ms MarkObjects: 8.670600 ms  DeleteObjects: 0.221200 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:scripting/monoscript/fileName/EnemyAI.cs: ac5d928c2e7f4dc32564e545998185f9 -> b23c04a72171da1bfba3c740e359e309
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:scripting/monoscript/fileName/PlayerController.cs: 5b090d859ab09be631dc3b0f203f9571 -> d93a52a180fbbe603a59e9aa6da73c83
+  custom:CustomObjectIndexerAttribute: 72b91833f83ae208fae7752999fa3104 -> 
+  custom:scripting/monoscript/fileName/Player Controls.cs: 34c6ff9cf0aa0d720e612550af5c5d26 -> 849ed7f5b11c9db237ef61b01c5a5104
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:scripting/monoscript/fileName/EnemyPathfinding.cs: 12babaef6e87e55c401478cd4221230b -> a9bce29876a0a11d972ceeffd6469af8
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 15757.787427 seconds.
+  path: Assets/TileMap/MasterSimple_0.asset
+  artifactKey: Guid(94ca8802bc891f2459217698d9e0e768) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_0.asset using Guid(94ca8802bc891f2459217698d9e0e768) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '925058c1c99fdd9ddfc09223b4dd6089') in 0.094463 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/TileMap/MasterSimple_36.asset
+  artifactKey: Guid(d8f6f254981a9024d960dbd9396b62de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_36.asset using Guid(d8f6f254981a9024d960dbd9396b62de) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '7ebf3d84e87f7fe37baee44974c3a1af') in 0.014368 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/TileMap/MasterSimple_58.asset
+  artifactKey: Guid(887d9c5d337c7a64197f37c817d7e253) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_58.asset using Guid(887d9c5d337c7a64197f37c817d7e253) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '952740d12f8a1534047cb4ad70603445') in 0.012757 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/TileMap/MasterSimple_35.asset
+  artifactKey: Guid(6116f9549e2d9194ea10d36ded8b9ee7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_35.asset using Guid(6116f9549e2d9194ea10d36ded8b9ee7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '6be260470fb432c41801e0284395c323') in 0.012162 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/TileMap/MasterSimple_84.asset
+  artifactKey: Guid(8705a21bbe7980d4fa206cacdbc45c43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_84.asset using Guid(8705a21bbe7980d4fa206cacdbc45c43) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'ea43ceb86a6f059a77d5f3adc3b231ad') in 0.014628 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/TileMap/MasterSimple_4.asset
+  artifactKey: Guid(e3e365a6b0829594f9817d50ce3ed199) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_4.asset using Guid(e3e365a6b0829594f9817d50ce3ed199) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '017bcb03684d81bbe0d0dba1b45972fb') in 0.012886 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/TileMap/MasterSimple_59.asset
+  artifactKey: Guid(d3621483518db024db6ff5f2841599cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_59.asset using Guid(d3621483518db024db6ff5f2841599cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'cbd148c6b060ca172289df662348899d') in 0.015095 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/TileMap/MasterSimple_5.asset
+  artifactKey: Guid(8f392fb5426321346a08fe2243c569d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_5.asset using Guid(8f392fb5426321346a08fe2243c569d5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '2710a3976c6227c3a645810fea16bf27') in 0.014323 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/TileMap/MasterSimple_62.asset
+  artifactKey: Guid(818ed0e09ee91564bbb6cdf2523d0cac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_62.asset using Guid(818ed0e09ee91564bbb6cdf2523d0cac) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '3d042e27845569630edeb2e109cf5a3f') in 0.010774 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/TileMap/MasterSimple_49.asset
+  artifactKey: Guid(3b466877f6ce53c4ebe3a1c9a8acba32) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_49.asset using Guid(3b466877f6ce53c4ebe3a1c9a8acba32) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '05748e244cfe6cd87c84ad8ee312ec12') in 0.013089 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000038 seconds.
+  path: Assets/TileMap/MasterSimple_86.asset
+  artifactKey: Guid(e6ee94665d907e044b11d8414190de28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_86.asset using Guid(e6ee94665d907e044b11d8414190de28) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '130df4c468efe6924aae5fa8ac44856f') in 0.014323 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/TileMap/MasterSimple_22.asset
+  artifactKey: Guid(e384f8a50c85f4b4ba3ad8cc8977a12f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_22.asset using Guid(e384f8a50c85f4b4ba3ad8cc8977a12f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '977fe3f7826082ec46990ec442b5d8b8') in 0.010656 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/TileMap/MasterSimple_3.asset
+  artifactKey: Guid(985fa0374e8b3754d929b35c7a5b01d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_3.asset using Guid(985fa0374e8b3754d929b35c7a5b01d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '6462855fe32ff9f494086a7149ff462f') in 0.010853 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/TileMap/MasterSimple_61.asset
+  artifactKey: Guid(a4e9fce816d98c34b9878adcd7b64a59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_61.asset using Guid(a4e9fce816d98c34b9878adcd7b64a59) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'e7cface408a04b3743d311b716233c0f') in 0.012302 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/TileMap/MasterSimple_20.asset
+  artifactKey: Guid(1ec04b1ee22ef0c4091afaa0aa3a196b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_20.asset using Guid(1ec04b1ee22ef0c4091afaa0aa3a196b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'bb24fc8a1c11a8b36e78c8f79f6b9be2') in 0.009647 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/TileMap/MasterSimple_8.asset
+  artifactKey: Guid(87689c9a17e53f04eb84d5117e4c7c47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_8.asset using Guid(87689c9a17e53f04eb84d5117e4c7c47) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '6b590850b50d1514209c37fccebbf2f6') in 0.010616 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/TileMap/MasterSimple_27.asset
+  artifactKey: Guid(bf19d743f1f52404b862343d7bd9730e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_27.asset using Guid(bf19d743f1f52404b862343d7bd9730e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '783865a327cc4ce6ccd02e1251c6565d') in 0.015347 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/TileMap/MasterSimple_76.asset
+  artifactKey: Guid(d3aa81a9af4564643aa94c45408a6124) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_76.asset using Guid(d3aa81a9af4564643aa94c45408a6124) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'ec2584d257ad13dd2d7e228714ba119d') in 0.013570 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/TileMap/MasterSimple_82.asset
+  artifactKey: Guid(14aa55dc329ba624ea793afbf8b609c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_82.asset using Guid(14aa55dc329ba624ea793afbf8b609c0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '5c1d91541cf323bda9bf5a5f95bf9f02') in 0.010897 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/TileMap/MasterSimple_65.asset
+  artifactKey: Guid(56787e54ee8cb9b43bb61eede0f847e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_65.asset using Guid(56787e54ee8cb9b43bb61eede0f847e7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'a67f0a18a816e7de40bdac355e6b4ccb') in 0.013280 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/TileMap/MasterSimple_72.asset
+  artifactKey: Guid(350d9917d9a24704985ef094f02c93e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_72.asset using Guid(350d9917d9a24704985ef094f02c93e2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'db50916b1ff19ab21a04dbc310c7a021') in 0.012064 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/TileMap/MasterSimple_38.asset
+  artifactKey: Guid(7302ae65468a378419fce56668b99403) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_38.asset using Guid(7302ae65468a378419fce56668b99403) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'cf2a64fd0785e9accdab4f3ad5081a0d') in 0.012148 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/TileMap/MasterSimple_50.asset
+  artifactKey: Guid(12d84bd772986214cb54ccc3f930f4ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_50.asset using Guid(12d84bd772986214cb54ccc3f930f4ef) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '41eca5f3c55942cea2d357eb6aee46e0') in 0.013755 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/TileMap/MasterSimple_83.asset
+  artifactKey: Guid(666ba3f91f4ba0a4cad3d32535fe8af7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_83.asset using Guid(666ba3f91f4ba0a4cad3d32535fe8af7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'c7ab1d71d4150ada776b09cd45283d1b') in 0.013575 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000068 seconds.
+  path: Assets/TileMap/MasterSimple_10.asset
+  artifactKey: Guid(b6ff2cfe2da535443b033060c2665d98) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_10.asset using Guid(b6ff2cfe2da535443b033060c2665d98) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '3c270d50e909c1f459d6337864435785') in 0.015548 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/TileMap/MasterSimple_19.asset
+  artifactKey: Guid(2ec255c64b6ebc0498e48a19a51d0951) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_19.asset using Guid(2ec255c64b6ebc0498e48a19a51d0951) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'c05830309e5c0477cb8d2d79a7314000') in 0.010791 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/TileMap/MasterSimple_52.asset
+  artifactKey: Guid(b918920da7f467542b6c84ad73f40932) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_52.asset using Guid(b918920da7f467542b6c84ad73f40932) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '20f41799bb3231e4172bdffff8622a85') in 0.011552 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/TileMap/MasterSimple_66.asset
+  artifactKey: Guid(94529d416adf8f0419595a4b79cb0e99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_66.asset using Guid(94529d416adf8f0419595a4b79cb0e99) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'bbae022b5a6359e3ec6de63d621e3ef5') in 0.012523 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/TileMap/MasterSimple_71.asset
+  artifactKey: Guid(29083b25438849f4487160233753b55a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_71.asset using Guid(29083b25438849f4487160233753b55a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '8b0a41f91e9d507abf039f8eaba8e71f') in 0.011655 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/TileMap/MasterSimple_57.asset
+  artifactKey: Guid(9fd39bd5630c26f48b9cd4e431fc03ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_57.asset using Guid(9fd39bd5630c26f48b9cd4e431fc03ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'e2c0337f995645852c9cd3a13fb92a89') in 0.012459 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/TileMap/MasterSimple_24.asset
+  artifactKey: Guid(c6153d64bd13336418c88f72f00524d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_24.asset using Guid(c6153d64bd13336418c88f72f00524d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '7f340a63745de3244e1c373549aa14c0') in 0.012784 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/TileMap/MasterSimple_31.asset
+  artifactKey: Guid(762a583947b17d341b963637037dad9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_31.asset using Guid(762a583947b17d341b963637037dad9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'c35bcd6f20325ec2d74996471beb6173') in 0.010705 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/TileMap/MasterSimple_79.asset
+  artifactKey: Guid(fb5a463ec71e9534d8cf3f52390092c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_79.asset using Guid(fb5a463ec71e9534d8cf3f52390092c7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '9812c81e96d3441c26ecb25bb523914b') in 0.011975 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/TileMap/MasterSimple_7.asset
+  artifactKey: Guid(b58965d0929599e488769d3fac62306f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_7.asset using Guid(b58965d0929599e488769d3fac62306f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'bad330d2df03f096a9cb3e8b9c67bf86') in 0.013834 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/TileMap/MasterSimple_1.asset
+  artifactKey: Guid(981027786af983a4db4710cf218fe3ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_1.asset using Guid(981027786af983a4db4710cf218fe3ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'e001edfdb3b4465a9bde5536f51d621c') in 0.013745 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/TileMap/MasterSimple_34.asset
+  artifactKey: Guid(b69d6ba4cf49bac44a98a345c1249cde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_34.asset using Guid(b69d6ba4cf49bac44a98a345c1249cde) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '3d0ceef77f9bd44e9ebf1d9a7e50c2b5') in 0.012990 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/TileMap/MasterSimple_46.asset
+  artifactKey: Guid(83f3b78e02866544298ac3aee072f4d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_46.asset using Guid(83f3b78e02866544298ac3aee072f4d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '4eab10e34d4a47013c5f39fb3561dba3') in 0.013717 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/TileMap/MasterSimple_41.asset
+  artifactKey: Guid(72e7bd669d3b9404cb4c50add9d5c0f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_41.asset using Guid(72e7bd669d3b9404cb4c50add9d5c0f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '6605408fb20aaf6aa891f67489491234') in 0.011498 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/TileMap/MasterSimple_13.asset
+  artifactKey: Guid(5d1a7f56667d5084db004075a43032b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_13.asset using Guid(5d1a7f56667d5084db004075a43032b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '1091c1c3e40cb11fccea7ef7eba49dd3') in 0.014444 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/TileMap/MasterSimple_15.asset
+  artifactKey: Guid(bd199dbc5b5d01e46b32a83ac7a8c184) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_15.asset using Guid(bd199dbc5b5d01e46b32a83ac7a8c184) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'dea4d60f9c924b9fbd1b930b5a818a0b') in 0.012156 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/TileMap/MasterSimple_44.asset
+  artifactKey: Guid(a4d3f70bca3d2e6498da113889f5f56e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_44.asset using Guid(a4d3f70bca3d2e6498da113889f5f56e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '37107925ccd7bccf3ba0241f7ebad077') in 0.012730 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/TileMap/MasterSimple_25.asset
+  artifactKey: Guid(777afc85574d2554a9877b7ab64e36bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_25.asset using Guid(777afc85574d2554a9877b7ab64e36bd) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'e76bc51256ed71a95f48461931522056') in 0.013246 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/TileMap/MasterSimple_40.asset
+  artifactKey: Guid(ee2c3166290f2ae4dbc41fd816769cbb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_40.asset using Guid(ee2c3166290f2ae4dbc41fd816769cbb) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '08548041a7806330ad3912da2202fa9e') in 0.012880 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/TileMap/MasterSimple_11.asset
+  artifactKey: Guid(d2ab56dfbe93ab7418a76373b35e031d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_11.asset using Guid(d2ab56dfbe93ab7418a76373b35e031d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '74f52d9a3bc40f87b78625f089c8207f') in 0.014288 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/TileMap/MasterSimple_74.asset
+  artifactKey: Guid(f2542f8050141ef4d800a9bf262a5885) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_74.asset using Guid(f2542f8050141ef4d800a9bf262a5885) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '6d9fd99e2180805f99b611e5337b7694') in 0.012047 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/TileMap/MasterSimple_21.asset
+  artifactKey: Guid(fce954e0a96bd6a4b8f552fc8e7054b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_21.asset using Guid(fce954e0a96bd6a4b8f552fc8e7054b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'f2d68f3e08d9ea5bd5ab7f1d0d042cda') in 0.012017 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/TileMap/MasterSimple_23.asset
+  artifactKey: Guid(45d5c2b50cdd6a74b81bdad916981e84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_23.asset using Guid(45d5c2b50cdd6a74b81bdad916981e84) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '5cb805040ea1a7ba1be3956da332821e') in 0.014315 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/TileMap/MasterSimple_2.asset
+  artifactKey: Guid(ebf0d32e9df09e440a0b03c12e9ff21c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_2.asset using Guid(ebf0d32e9df09e440a0b03c12e9ff21c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'd6898bec78ac4250ff96bf39a55471e3') in 0.013876 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/TileMap/MasterSimple_45.asset
+  artifactKey: Guid(e82c387ea2a003e4aaf5dfa2fbb18b05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_45.asset using Guid(e82c387ea2a003e4aaf5dfa2fbb18b05) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'c32c1a2ae08475910b7ab459b909a6af') in 0.018715 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/TileMap/MasterSimple_37.asset
+  artifactKey: Guid(adef214e0e63c9844aba3225715ee90f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_37.asset using Guid(adef214e0e63c9844aba3225715ee90f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '6cde63ef15e5748f403efb7085cc397f') in 0.013223 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/TileMap/MasterSimple_47.asset
+  artifactKey: Guid(c5b09f01de8db1e4aa45500a8e35489f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_47.asset using Guid(c5b09f01de8db1e4aa45500a8e35489f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'b00161948dea361870cebb84a49537b8') in 0.013955 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/TileMap/MasterSimple_70.asset
+  artifactKey: Guid(390049d0336076249be9f753b5799343) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_70.asset using Guid(390049d0336076249be9f753b5799343) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'f1883f2bf93f388403953560197678a7') in 0.013203 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 1.119846 seconds.
+  path: Assets/TileMap/MasterSimple_90.asset
+  artifactKey: Guid(4975751e80700584d9ec0471c8086ad2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_90.asset using Guid(4975751e80700584d9ec0471c8086ad2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '01e722f80e67d21fb0f8d1a74439583d') in 0.011356 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/TileMap/MasterSimple_96.asset
+  artifactKey: Guid(5fc2a4943f3c829469b04d9129d1a4f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_96.asset using Guid(5fc2a4943f3c829469b04d9129d1a4f6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'd28d97d167461e7d60be1396faf24638') in 0.011376 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/TileMap/MasterSimple_101.asset
+  artifactKey: Guid(0a6928ea4040cb5478ce7dba16997289) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_101.asset using Guid(0a6928ea4040cb5478ce7dba16997289) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '78862e6ebe17ee27e2d84bfccbcd0a4c') in 0.012994 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/TileMap/MasterSimple_100.asset
+  artifactKey: Guid(2d118bf9ee094664cb0bf26159b3a9fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_100.asset using Guid(2d118bf9ee094664cb0bf26159b3a9fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '02366ad4a7986419cab703e3d0262c94') in 0.013147 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/TileMap/MasterSimple_112.asset
+  artifactKey: Guid(3d3350e8f3dea1040929d9b0674af0b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_112.asset using Guid(3d3350e8f3dea1040929d9b0674af0b2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '605db70859ef61691b61fbbf5ba7f996') in 0.014549 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/TileMap/MasterSimple_122.asset
+  artifactKey: Guid(883a32dcdfabec0438d002929d317198) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_122.asset using Guid(883a32dcdfabec0438d002929d317198) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'dc44dc15d4767381d625fd97b5f48d02') in 0.012712 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/TileMap/MasterSimple_115.asset
+  artifactKey: Guid(dba5e308276954b46b5c71dcf0eba837) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_115.asset using Guid(dba5e308276954b46b5c71dcf0eba837) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '070793caf4e7c134970a9c0f09560839') in 0.014182 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/TileMap/MasterSimple_116.asset
+  artifactKey: Guid(51d0652efab716a439156b32e23fbe4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_116.asset using Guid(51d0652efab716a439156b32e23fbe4a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '0bae6aabf778bb8125f253c68ef4d7db') in 0.013817 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000041 seconds.
+  path: Assets/TileMap/MasterSimple_118.asset
+  artifactKey: Guid(861f3324eae36c444bb103723450ca6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_118.asset using Guid(861f3324eae36c444bb103723450ca6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '10a313b1cb658077b6855750afa70c90') in 0.012571 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/TileMap/MasterSimple_109.asset
+  artifactKey: Guid(3ac28d4d1ab61584ca8f56addded2eb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_109.asset using Guid(3ac28d4d1ab61584ca8f56addded2eb7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'e622b10bab09032497b9cf367a1d85ee') in 0.012022 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/TileMap/MasterSimple_103.asset
+  artifactKey: Guid(821f5fea807dc214ebacf3362d0f2d97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_103.asset using Guid(821f5fea807dc214ebacf3362d0f2d97) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'aa1d5ddc72625ab7adb71f7e4e45e1a0') in 0.013653 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/TileMap/MasterSimple_104.asset
+  artifactKey: Guid(efb71e0fe19ef7a44a31f49bce7583b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_104.asset using Guid(efb71e0fe19ef7a44a31f49bce7583b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'c8a216d9024609b1d1b4f94ec4fd8432') in 0.015610 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/TileMap/MasterSimple_106.asset
+  artifactKey: Guid(7f0e19b4f405d294fbf7637853eeac8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_106.asset using Guid(7f0e19b4f405d294fbf7637853eeac8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'bc66bd41bfe33cbdb528e2fa6ede8568') in 0.014475 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/TileMap/MasterSimple_108.asset
+  artifactKey: Guid(e4b33fe79a2934540848a924fc7c8877) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_108.asset using Guid(e4b33fe79a2934540848a924fc7c8877) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '58b4b3243a370aa0c80069b84273231e') in 0.015312 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/TileMap/MasterSimple_119.asset
+  artifactKey: Guid(5eb4bbf70c2543c41b36f5c6453c1722) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_119.asset using Guid(5eb4bbf70c2543c41b36f5c6453c1722) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'bd201fa7435a55ddfa6a2b9c07596d7b') in 0.013452 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/TileMap/MasterSimple_94.asset
+  artifactKey: Guid(942e755f841c08b4ba6828f3fb6ee949) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_94.asset using Guid(942e755f841c08b4ba6828f3fb6ee949) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '5be52ec09b82adc675b4d3f9bd739995') in 0.014946 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/TileMap/MasterSimple_99.asset
+  artifactKey: Guid(82bc3611b21ad074195bd2f7a9218d8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_99.asset using Guid(82bc3611b21ad074195bd2f7a9218d8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '6cd2dc96968427c485585319216b0c95') in 0.012777 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/TileMap/MasterSimple_105.asset
+  artifactKey: Guid(f9bc06c195a82024289bdb5cf4b2e624) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_105.asset using Guid(f9bc06c195a82024289bdb5cf4b2e624) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '8f0293154292ce909f952cdf67824abc') in 0.013221 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.058118 seconds.
+  path: Assets/TileMap/MasterSimple_126.asset
+  artifactKey: Guid(3576e117fc6de8042afe22f358d043a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_126.asset using Guid(3576e117fc6de8042afe22f358d043a7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'fc1e60afdc4f5a70795004dd3aea3c92') in 0.011555 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/TileMap/MasterSimple_127.asset
+  artifactKey: Guid(e69926d5d90172e4a8076ebd7d30bff7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_127.asset using Guid(e69926d5d90172e4a8076ebd7d30bff7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'a47319978e034a22ee48571da0f0db03') in 0.012276 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/TileMap/New Sprite Atlas.spriteatlasv2
+  artifactKey: Guid(bf18311ac7f837e4a9c7b659e1e40503) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/New Sprite Atlas.spriteatlasv2 using Guid(bf18311ac7f837e4a9c7b659e1e40503) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'b2e25caa3a3f2a066caea75531627ca1') in 0.001494 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 0.000018 seconds.
+  path: Assets/TileMap/MasterSimple_128.asset
+  artifactKey: Guid(2833c3a7380fb3246ab16b62253da82f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_128.asset using Guid(2833c3a7380fb3246ab16b62253da82f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '3107070360035bf42c6dd735aba2ea90') in 0.010275 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 25.917347 seconds.
+  path: Assets/TileMap/MasterSimple_1.asset
+  artifactKey: Guid(981027786af983a4db4710cf218fe3ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_1.asset using Guid(981027786af983a4db4710cf218fe3ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '189d77057d6e5188895d42a276a841f6') in 0.014330 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/TileMap/MasterSimple_36.asset
+  artifactKey: Guid(d8f6f254981a9024d960dbd9396b62de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_36.asset using Guid(d8f6f254981a9024d960dbd9396b62de) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '473da5d032d87d6dc2d276f672059f35') in 0.013011 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/TileMap/MasterSimple_58.asset
+  artifactKey: Guid(887d9c5d337c7a64197f37c817d7e253) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_58.asset using Guid(887d9c5d337c7a64197f37c817d7e253) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'eadc158b5e620f69be5b7d303de1947a') in 0.015012 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/TileMap/MasterSimple_35.asset
+  artifactKey: Guid(6116f9549e2d9194ea10d36ded8b9ee7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_35.asset using Guid(6116f9549e2d9194ea10d36ded8b9ee7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '9e72562f7ada4e138026f6096b9e472f') in 0.018332 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/TileMap/MasterSimple_84.asset
+  artifactKey: Guid(8705a21bbe7980d4fa206cacdbc45c43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_84.asset using Guid(8705a21bbe7980d4fa206cacdbc45c43) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '44e90666296fea14506f5f9be81f2106') in 0.016006 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/TileMap/MasterSimple_59.asset
+  artifactKey: Guid(d3621483518db024db6ff5f2841599cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_59.asset using Guid(d3621483518db024db6ff5f2841599cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '594222405ba204501b272e78339e4925') in 0.014584 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/TileMap/MasterSimple_62.asset
+  artifactKey: Guid(818ed0e09ee91564bbb6cdf2523d0cac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_62.asset using Guid(818ed0e09ee91564bbb6cdf2523d0cac) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '31f1d93454af871fcebe35937cfe8c3f') in 0.015067 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/TileMap/MasterSimple_86.asset
+  artifactKey: Guid(e6ee94665d907e044b11d8414190de28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_86.asset using Guid(e6ee94665d907e044b11d8414190de28) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'ccd00c524e94be7fd3d48fc52018d372') in 0.017583 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/TileMap/MasterSimple_3.asset
+  artifactKey: Guid(985fa0374e8b3754d929b35c7a5b01d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_3.asset using Guid(985fa0374e8b3754d929b35c7a5b01d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'd4e990790f34ab0ba77f53372fc0ea44') in 0.015340 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/TileMap/MasterSimple_20.asset
+  artifactKey: Guid(1ec04b1ee22ef0c4091afaa0aa3a196b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_20.asset using Guid(1ec04b1ee22ef0c4091afaa0aa3a196b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'fe7d9fe5d50963d86da6f4599a83bed9') in 0.013423 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/TileMap/MasterSimple_28.asset
+  artifactKey: Guid(b531c5a35fb86414cb8b4e0703300ae9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_28.asset using Guid(b531c5a35fb86414cb8b4e0703300ae9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'a9e643f5adb4dec89d65e2d82a49e3a9') in 0.014415 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/TileMap/MasterSimple_75.asset
+  artifactKey: Guid(8d60cdef848b67e4c8ff11e6af5b2f28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_75.asset using Guid(8d60cdef848b67e4c8ff11e6af5b2f28) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'a0ff969205ce850710229072b33b68d0') in 0.014286 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/TileMap/MasterSimple_33.asset
+  artifactKey: Guid(267fe18f3a2035c489b51c931e39e4d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_33.asset using Guid(267fe18f3a2035c489b51c931e39e4d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '840f7a301cc6c97340ec24710b50d4e6') in 0.012717 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/TileMap/MasterSimple_26.asset
+  artifactKey: Guid(ee21767f99d11cc4d9f360b350e3e107) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_26.asset using Guid(ee21767f99d11cc4d9f360b350e3e107) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'f661f2625107a47067996323688c9c0f') in 0.014894 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/TileMap/MasterSimple_68.asset
+  artifactKey: Guid(decb777ee6edf4a48b91f28a6f451fa4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_68.asset using Guid(decb777ee6edf4a48b91f28a6f451fa4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'a266c1280f22125475eadbc8b6c04176') in 0.017595 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/TileMap/MasterSimple_80.asset
+  artifactKey: Guid(fa12c7ca130fbca4ea326d397d94178a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_80.asset using Guid(fa12c7ca130fbca4ea326d397d94178a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'eec8db7ff5f5cc89f6d9be5f6a80a88d') in 0.019514 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/TileMap/MasterSimple_18.asset
+  artifactKey: Guid(91a68757871116c488ed21367261f15b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_18.asset using Guid(91a68757871116c488ed21367261f15b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '59a54270ca528d87d5dae1c0aedc91e0') in 0.018866 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/TileMap/MasterSimple_54.asset
+  artifactKey: Guid(7363b29d377584d4fa790e4e82233dfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_54.asset using Guid(7363b29d377584d4fa790e4e82233dfd) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '960c59fd400e36403b6a4b6e125b85c0') in 0.013557 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/TileMap/MasterSimple_51.asset
+  artifactKey: Guid(329af54ae7f1bc54db437d8b96a5f2ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_51.asset using Guid(329af54ae7f1bc54db437d8b96a5f2ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'e12792ae31e031d6bcfc64184c51ab79') in 0.015368 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/TileMap/MasterSimple_52.asset
+  artifactKey: Guid(b918920da7f467542b6c84ad73f40932) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_52.asset using Guid(b918920da7f467542b6c84ad73f40932) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '08589d156e876a2a82c8f195d33e2171') in 0.015460 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/TileMap/MasterSimple_71.asset
+  artifactKey: Guid(29083b25438849f4487160233753b55a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_71.asset using Guid(29083b25438849f4487160233753b55a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'e5dbc9696879706c4dcb53f068ccec78') in 0.015609 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/TileMap/MasterSimple_57.asset
+  artifactKey: Guid(9fd39bd5630c26f48b9cd4e431fc03ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_57.asset using Guid(9fd39bd5630c26f48b9cd4e431fc03ca) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '25ae989f12421ccdf66742323c0916ca') in 0.014202 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/TileMap/MasterSimple_6.asset
+  artifactKey: Guid(bbf7cb4d14227f643a443a22b691559d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_6.asset using Guid(bbf7cb4d14227f643a443a22b691559d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'e415570db026ab2bca208f29204cb5b2') in 0.020127 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/TileMap/MasterSimple_53.asset
+  artifactKey: Guid(db493cf6364d42945b32df2c28d53a43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_53.asset using Guid(db493cf6364d42945b32df2c28d53a43) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '5c9de57f201588b5cd61e87298778c73') in 0.015368 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000064 seconds.
+  path: Assets/TileMap/MasterSimple_34.asset
+  artifactKey: Guid(b69d6ba4cf49bac44a98a345c1249cde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_34.asset using Guid(b69d6ba4cf49bac44a98a345c1249cde) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '3491df54f61488f6e83f93ff67eed25e') in 0.016993 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/TileMap/MasterSimple_46.asset
+  artifactKey: Guid(83f3b78e02866544298ac3aee072f4d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_46.asset using Guid(83f3b78e02866544298ac3aee072f4d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '41a086b2d541201e36f3d3cc51553d02') in 0.013548 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/TileMap/MasterSimple_41.asset
+  artifactKey: Guid(72e7bd669d3b9404cb4c50add9d5c0f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_41.asset using Guid(72e7bd669d3b9404cb4c50add9d5c0f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '45ebfe09d062f0b6008652f0ac102cb7') in 0.013804 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/TileMap/MasterSimple_13.asset
+  artifactKey: Guid(5d1a7f56667d5084db004075a43032b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_13.asset using Guid(5d1a7f56667d5084db004075a43032b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '4590db315e350380bfb1d7e101b79773') in 0.014402 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/TileMap/MasterSimple_44.asset
+  artifactKey: Guid(a4d3f70bca3d2e6498da113889f5f56e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_44.asset using Guid(a4d3f70bca3d2e6498da113889f5f56e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'efad4f19603e1921a1390ab33a8dafdb') in 0.014175 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000037 seconds.
+  path: Assets/TileMap/MasterSimple_64.asset
+  artifactKey: Guid(a426dd4405b5df94cabfa746cf1c881a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_64.asset using Guid(a426dd4405b5df94cabfa746cf1c881a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '0499c8bddee36de148f6c5d0e1ffafb5') in 0.012747 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000032 seconds.
+  path: Assets/TileMap/MasterSimple_11.asset
+  artifactKey: Guid(d2ab56dfbe93ab7418a76373b35e031d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_11.asset using Guid(d2ab56dfbe93ab7418a76373b35e031d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'c34d0fe7d7b80f6fd93c671f2a584fee') in 0.015367 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000035 seconds.
+  path: Assets/TileMap/MasterSimple_74.asset
+  artifactKey: Guid(f2542f8050141ef4d800a9bf262a5885) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_74.asset using Guid(f2542f8050141ef4d800a9bf262a5885) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'c4021011b7ccc2df092a8d4da90a3c81') in 0.014683 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/TileMap/MasterSimple_23.asset
+  artifactKey: Guid(45d5c2b50cdd6a74b81bdad916981e84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_23.asset using Guid(45d5c2b50cdd6a74b81bdad916981e84) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'fef7959042dc96260548802a582df308') in 0.015354 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/TileMap/MasterSimple_60.asset
+  artifactKey: Guid(e91687deb14462c438b963a689cf1f67) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_60.asset using Guid(e91687deb14462c438b963a689cf1f67) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'a112940d30311f456e875c7277f744df') in 0.014920 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/TileMap/MasterSimple_37.asset
+  artifactKey: Guid(adef214e0e63c9844aba3225715ee90f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_37.asset using Guid(adef214e0e63c9844aba3225715ee90f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'bba90d39fd4715a3a7253af6f94a7be9') in 0.016920 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/TileMap/MasterSimple_9.asset
+  artifactKey: Guid(a9972da4365132d48809eb86e077d3bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_9.asset using Guid(a9972da4365132d48809eb86e077d3bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '5a88c9f42b176a85c55b0d72be321cee') in 0.017593 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 37.685310 seconds.
+  path: Assets/TileMap/MasterSimple_1.asset
+  artifactKey: Guid(981027786af983a4db4710cf218fe3ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_1.asset using Guid(981027786af983a4db4710cf218fe3ce) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '1caf20bad093a3264d7d661e4fc6c2e4') in 0.015189 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/TileMap/MasterSimple_36.asset
+  artifactKey: Guid(d8f6f254981a9024d960dbd9396b62de) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_36.asset using Guid(d8f6f254981a9024d960dbd9396b62de) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '2dc7aee643fe5c354b7b43111c0f69e0') in 0.013671 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/TileMap/MasterSimple_58.asset
+  artifactKey: Guid(887d9c5d337c7a64197f37c817d7e253) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_58.asset using Guid(887d9c5d337c7a64197f37c817d7e253) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'c2266631e3cc53bd21549d87865e57f3') in 0.014679 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/TileMap/MasterSimple_59.asset
+  artifactKey: Guid(d3621483518db024db6ff5f2841599cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_59.asset using Guid(d3621483518db024db6ff5f2841599cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'b4a77ff7c2447edb39bcad9780a5de87') in 0.016826 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/TileMap/MasterSimple_62.asset
+  artifactKey: Guid(818ed0e09ee91564bbb6cdf2523d0cac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_62.asset using Guid(818ed0e09ee91564bbb6cdf2523d0cac) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'ab09add0deca005b771a5fefbf2d32e0') in 0.013164 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/TileMap/MasterSimple_86.asset
+  artifactKey: Guid(e6ee94665d907e044b11d8414190de28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_86.asset using Guid(e6ee94665d907e044b11d8414190de28) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'cac07d4348de813286f6fc01b82c5b5a') in 0.014937 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/TileMap/MasterSimple_3.asset
+  artifactKey: Guid(985fa0374e8b3754d929b35c7a5b01d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_3.asset using Guid(985fa0374e8b3754d929b35c7a5b01d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '58cc9a065b5161c6b8cf0209866fc33c') in 0.014394 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/TileMap/MasterSimple_61.asset
+  artifactKey: Guid(a4e9fce816d98c34b9878adcd7b64a59) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_61.asset using Guid(a4e9fce816d98c34b9878adcd7b64a59) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '376ca956f1a5efc89a18bd376a900db8') in 0.013973 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/TileMap/MasterSimple_8.asset
+  artifactKey: Guid(87689c9a17e53f04eb84d5117e4c7c47) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_8.asset using Guid(87689c9a17e53f04eb84d5117e4c7c47) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '27e35f98aa7c554ad5b9ebfd0721f7f4') in 0.015876 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000023 seconds.
+  path: Assets/TileMap/MasterSimple_75.asset
+  artifactKey: Guid(8d60cdef848b67e4c8ff11e6af5b2f28) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_75.asset using Guid(8d60cdef848b67e4c8ff11e6af5b2f28) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '4718bf0e62fb64b67328630c950f103b') in 0.015107 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/TileMap/MasterSimple_76.asset
+  artifactKey: Guid(d3aa81a9af4564643aa94c45408a6124) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_76.asset using Guid(d3aa81a9af4564643aa94c45408a6124) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '5aad0c2c7acdfad21c5fd657c9de0455') in 0.015147 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/TileMap/MasterSimple_26.asset
+  artifactKey: Guid(ee21767f99d11cc4d9f360b350e3e107) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_26.asset using Guid(ee21767f99d11cc4d9f360b350e3e107) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'bfbb846f8a426f820a43f64731b8f6a6') in 0.015681 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/TileMap/MasterSimple_68.asset
+  artifactKey: Guid(decb777ee6edf4a48b91f28a6f451fa4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_68.asset using Guid(decb777ee6edf4a48b91f28a6f451fa4) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '91c948dc50d0ad79c8064388d9fe7d5b') in 0.013879 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/TileMap/MasterSimple_80.asset
+  artifactKey: Guid(fa12c7ca130fbca4ea326d397d94178a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_80.asset using Guid(fa12c7ca130fbca4ea326d397d94178a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '278977f99d186028fbd75f55799aa1c5') in 0.012786 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/TileMap/MasterSimple_18.asset
+  artifactKey: Guid(91a68757871116c488ed21367261f15b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_18.asset using Guid(91a68757871116c488ed21367261f15b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'cc73519d71cc1b1426672fb1ede8a570') in 0.014844 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/TileMap/MasterSimple_69.asset
+  artifactKey: Guid(477bb6887bfdf154ea9ee4c3c4a76d63) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_69.asset using Guid(477bb6887bfdf154ea9ee4c3c4a76d63) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '28add9976660697bbe495de4588652fe') in 0.015826 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/TileMap/MasterSimple_51.asset
+  artifactKey: Guid(329af54ae7f1bc54db437d8b96a5f2ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_51.asset using Guid(329af54ae7f1bc54db437d8b96a5f2ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '9f157820c5563e8fbf66675be38d7b06') in 0.015358 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/TileMap/MasterSimple_77.asset
+  artifactKey: Guid(055c33d7a1bfe35488ab9f0132038570) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_77.asset using Guid(055c33d7a1bfe35488ab9f0132038570) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '4806b276eb0820e1307114f8db062e14') in 0.013663 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000029 seconds.
+  path: Assets/TileMap/MasterSimple_66.asset
+  artifactKey: Guid(94529d416adf8f0419595a4b79cb0e99) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_66.asset using Guid(94529d416adf8f0419595a4b79cb0e99) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '8bea68321c8729d2b0ac296c8ace2cfb') in 0.015580 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000017 seconds.
+  path: Assets/TileMap/MasterSimple_17.asset
+  artifactKey: Guid(b5d24a65bc19c714e9e7421bc25a4954) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_17.asset using Guid(b5d24a65bc19c714e9e7421bc25a4954) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '8ba90a4730c67cd57502b40b55827ee5') in 0.015075 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/TileMap/MasterSimple_12.asset
+  artifactKey: Guid(3d20158cc721c82418a1f5cd2e997994) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_12.asset using Guid(3d20158cc721c82418a1f5cd2e997994) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'a7cb335f56931d3c12ac76045ce03d68') in 0.016483 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/TileMap/MasterSimple_31.asset
+  artifactKey: Guid(762a583947b17d341b963637037dad9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_31.asset using Guid(762a583947b17d341b963637037dad9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '3cba7714ba78a4f3661181ec51edab65') in 0.013293 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000019 seconds.
+  path: Assets/TileMap/MasterSimple_53.asset
+  artifactKey: Guid(db493cf6364d42945b32df2c28d53a43) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_53.asset using Guid(db493cf6364d42945b32df2c28d53a43) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '7aec216b8e6f12a731401bfd1053426f') in 0.021924 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/TileMap/MasterSimple_34.asset
+  artifactKey: Guid(b69d6ba4cf49bac44a98a345c1249cde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_34.asset using Guid(b69d6ba4cf49bac44a98a345c1249cde) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'c254ac56930c41cbf9c4666c758ca491') in 0.015820 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/TileMap/MasterSimple_46.asset
+  artifactKey: Guid(83f3b78e02866544298ac3aee072f4d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_46.asset using Guid(83f3b78e02866544298ac3aee072f4d3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'db9d0177f327ed9f04c59a89cd372a22') in 0.019361 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/TileMap/MasterSimple_13.asset
+  artifactKey: Guid(5d1a7f56667d5084db004075a43032b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_13.asset using Guid(5d1a7f56667d5084db004075a43032b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '5acdde2966059da8109982178b64c824') in 0.015333 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/TileMap/MasterSimple_48.asset
+  artifactKey: Guid(55ee54b34521149418f75b4bad16ea9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_48.asset using Guid(55ee54b34521149418f75b4bad16ea9c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '70cb2b53297bcd7ad1b3f9a226bf3a38') in 0.012795 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000030 seconds.
+  path: Assets/TileMap/MasterSimple_64.asset
+  artifactKey: Guid(a426dd4405b5df94cabfa746cf1c881a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_64.asset using Guid(a426dd4405b5df94cabfa746cf1c881a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '976f299bf30a53afd87215af37fdaed0') in 0.016081 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000043 seconds.
+  path: Assets/TileMap/MasterSimple_42.asset
+  artifactKey: Guid(8a639917b1cc1d34ca2d7a67e191b58d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_42.asset using Guid(8a639917b1cc1d34ca2d7a67e191b58d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '3f9d95b43fda553b7e6757a71bc02bfc') in 0.014938 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000021 seconds.
+  path: Assets/TileMap/MasterSimple_56.asset
+  artifactKey: Guid(a9ecb76601861754abd3c2ba2e04279d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_56.asset using Guid(a9ecb76601861754abd3c2ba2e04279d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'f36453ee0b03a1024fafb6204fab53d4') in 0.015910 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/TileMap/MasterSimple_21.asset
+  artifactKey: Guid(fce954e0a96bd6a4b8f552fc8e7054b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_21.asset using Guid(fce954e0a96bd6a4b8f552fc8e7054b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'ca2e4e1916bb9b902b1974ac213b2e7f') in 0.016946 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/TileMap/MasterSimple_2.asset
+  artifactKey: Guid(ebf0d32e9df09e440a0b03c12e9ff21c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_2.asset using Guid(ebf0d32e9df09e440a0b03c12e9ff21c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '326c3a5b1df77fe65b4a4ef84c9491a1') in 0.015360 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/TileMap/MasterSimple_45.asset
+  artifactKey: Guid(e82c387ea2a003e4aaf5dfa2fbb18b05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_45.asset using Guid(e82c387ea2a003e4aaf5dfa2fbb18b05) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '3acac75c77cceedb8c1cf25d6d0b0839') in 0.017186 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/TileMap/MasterSimple_9.asset
+  artifactKey: Guid(a9972da4365132d48809eb86e077d3bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_9.asset using Guid(a9972da4365132d48809eb86e077d3bb) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'e69900d36dfdddef2c5b74302c9a9d53') in 0.016010 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Prepare
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.512 seconds
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.845 seconds
+Domain Reload Profiling: 2354ms
+	BeginReloadAssembly (171ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (10ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (42ms)
+	RebuildCommonClasses (36ms)
+	RebuildNativeTypeToScriptingClass (12ms)
+	initialDomainReloadingComplete (33ms)
+	LoadAllAssembliesAndSetupDomain (256ms)
+		LoadAssemblies (317ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (27ms)
+			TypeCache.Refresh (8ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (17ms)
+	FinalizeReload (1845ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (863ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (8ms)
+			SetLoadedEditorAssemblies (7ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (100ms)
+			ProcessInitializeOnLoadAttributes (655ms)
+			ProcessInitializeOnLoadMethodAttributes (83ms)
+			AfterProcessingInitializeOnLoad (8ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (21ms)
+Refreshing native plugins compatible for Editor in 8.40 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 5896 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 20 unused Assets / (316.7 KB). Loaded Objects now: 6536.
+Memory consumption went from 201.4 MB to 201.1 MB.
+Total: 7.144600 ms (FindLiveObjects: 0.961700 ms CreateObjectMapping: 0.457600 ms MarkObjects: 5.564900 ms  DeleteObjects: 0.159500 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:scripting/monoscript/fileName/EnemyAI.cs: ac5d928c2e7f4dc32564e545998185f9 -> b23c04a72171da1bfba3c740e359e309
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:scripting/monoscript/fileName/PlayerController.cs: 5b090d859ab09be631dc3b0f203f9571 -> d93a52a180fbbe603a59e9aa6da73c83
+  custom:CustomObjectIndexerAttribute: 72b91833f83ae208fae7752999fa3104 -> 
+  custom:scripting/monoscript/fileName/Player Controls.cs: 34c6ff9cf0aa0d720e612550af5c5d26 -> 849ed7f5b11c9db237ef61b01c5a5104
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:scripting/monoscript/fileName/EnemyPathfinding.cs: 12babaef6e87e55c401478cd4221230b -> a9bce29876a0a11d972ceeffd6469af8
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 56.735208 seconds.
+  path: Assets/TileMap/MasterSimple_91.asset
+  artifactKey: Guid(3f5a3bb66107f6e42b3c522ea8aa682e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_91.asset using Guid(3f5a3bb66107f6e42b3c522ea8aa682e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '3c083dcc90f2c8a5c6be6654f5f955b8') in 0.063092 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000022 seconds.
+  path: Assets/TileMap/MasterSimple_101.asset
+  artifactKey: Guid(0a6928ea4040cb5478ce7dba16997289) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_101.asset using Guid(0a6928ea4040cb5478ce7dba16997289) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'bf16e2547b9af5289a9fd74f8157cf51') in 0.016969 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/TileMap/MasterSimple_127.asset
+  artifactKey: Guid(e69926d5d90172e4a8076ebd7d30bff7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_127.asset using Guid(e69926d5d90172e4a8076ebd7d30bff7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '85ad69e8bf427a2eea2b3ec16fdc0ab3') in 0.016716 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000034 seconds.
+  path: Assets/TileMap/MasterSimple_115.asset
+  artifactKey: Guid(dba5e308276954b46b5c71dcf0eba837) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_115.asset using Guid(dba5e308276954b46b5c71dcf0eba837) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '4de913a477bc8436dcd6f433598a7d12') in 0.015445 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/TileMap/MasterSimple_98.asset
+  artifactKey: Guid(c1a48cd8feecd66448243799bddcded8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_98.asset using Guid(c1a48cd8feecd66448243799bddcded8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '6f6a777c54844f407b3b3b57ab0f338a') in 0.014254 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/TileMap/MasterSimple_121.asset
+  artifactKey: Guid(df8f3d3f37592b741995676b634f5155) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_121.asset using Guid(df8f3d3f37592b741995676b634f5155) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '855a413b7b940d4a2628a3bded2be8bb') in 0.015020 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000025 seconds.
+  path: Assets/TileMap/MasterSimple_95.asset
+  artifactKey: Guid(a4d6d42cd325d4a4bbb90c6a0a44e264) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_95.asset using Guid(a4d6d42cd325d4a4bbb90c6a0a44e264) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '738200918477f29f335551169af68f5d') in 0.014054 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/TileMap/MasterSimple_118.asset
+  artifactKey: Guid(861f3324eae36c444bb103723450ca6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_118.asset using Guid(861f3324eae36c444bb103723450ca6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '8edd059d966291f50501f940007ca776') in 0.015254 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000026 seconds.
+  path: Assets/TileMap/MasterSimple_125.asset
+  artifactKey: Guid(82e9866cb94bf8040927e4190fa0a8a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_125.asset using Guid(82e9866cb94bf8040927e4190fa0a8a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '5af9158aa48f0d99d06135af40c45b65') in 0.014622 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/TileMap/MasterSimple_103.asset
+  artifactKey: Guid(821f5fea807dc214ebacf3362d0f2d97) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_103.asset using Guid(821f5fea807dc214ebacf3362d0f2d97) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '14f24e27f1d9aec6aef34597aa672c33') in 0.015031 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000020 seconds.
+  path: Assets/TileMap/MasterSimple_104.asset
+  artifactKey: Guid(efb71e0fe19ef7a44a31f49bce7583b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_104.asset using Guid(efb71e0fe19ef7a44a31f49bce7583b5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '92889f57941c3db3c553a0d8703b0cbc') in 0.017087 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000024 seconds.
+  path: Assets/TileMap/MasterSimple_111.asset
+  artifactKey: Guid(ce510d430b2b20f4c896d3c820a421f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_111.asset using Guid(ce510d430b2b20f4c896d3c820a421f0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '43acb4d325a8304e4862e0c3b9031d5f') in 0.016429 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000039 seconds.
+  path: Assets/TileMap/MasterSimple_106.asset
+  artifactKey: Guid(7f0e19b4f405d294fbf7637853eeac8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_106.asset using Guid(7f0e19b4f405d294fbf7637853eeac8a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'a4aca3f3b3e284f309ef0aa457bb97df') in 0.016125 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000036 seconds.
+  path: Assets/TileMap/MasterSimple_114.asset
+  artifactKey: Guid(0c2981acbb8334344814a09e988b54fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_114.asset using Guid(0c2981acbb8334344814a09e988b54fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '3096ba582ff8f7b0c0c577960a6c8803') in 0.015951 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000031 seconds.
+  path: Assets/TileMap/MasterSimple_97.asset
+  artifactKey: Guid(d5bc449ef2ce2de4b9b1067c579db1ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_97.asset using Guid(d5bc449ef2ce2de4b9b1067c579db1ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'cf77d876c9c29439e183ff430939885a') in 0.016231 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000027 seconds.
+  path: Assets/TileMap/MasterSimple_92.asset
+  artifactKey: Guid(a5e85b34a8120af42abfaf34cee9b8f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_92.asset using Guid(a5e85b34a8120af42abfaf34cee9b8f7) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '767341f384c2a030b1f86c831857bf8c') in 0.018766 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000033 seconds.
+  path: Assets/TileMap/MasterSimple_94.asset
+  artifactKey: Guid(942e755f841c08b4ba6828f3fb6ee949) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_94.asset using Guid(942e755f841c08b4ba6828f3fb6ee949) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '49a04455a826a4f21a093dd243ee4723') in 0.014251 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+========================================================================
+Received Import Request.
+  Time since last request: 0.000028 seconds.
+  path: Assets/TileMap/MasterSimple_99.asset
+  artifactKey: Guid(82bc3611b21ad074195bd2f7a9218d8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TileMap/MasterSimple_99.asset using Guid(82bc3611b21ad074195bd2f7a9218d8b) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '94639bb79e9fd6eae28c418ded1854ef') in 0.016321 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 134
+Editor requested this worker to shutdown with reason: Scaling down because of idle timeout
+TcpMessagingSession - receive error: operation aborted. errorcode: 995, details: The I/O operation has been aborted because of either a thread exit or an application request.
+AssetImportWorker is now disconnected from the server
+Process exiting
+Exiting without the bug reporter. Application will terminate with return code 0
