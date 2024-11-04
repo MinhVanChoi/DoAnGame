@@ -44,8 +44,8 @@ public class PlayerController : MonoBehaviour
     {
         movement = playerControls.Movement.Move.ReadValue<Vector2>();
 
-        myAnimator.SetFloat("moveX", movement.x);
-        myAnimator.SetFloat("moveY", movement.y);
+        myAnimator.SetFloat("MoveX", movement.x);
+        myAnimator.SetFloat("MoveY", movement.y);
     }
 
     private void Move()

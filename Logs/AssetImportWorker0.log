@@ -15,7 +15,7 @@ C:/Users/ADMIN/Downloads/Đồ Án CNTT - Cô An/Project-01/Game2D_H
 -logFile
 Logs/AssetImportWorker0.log
 -srvPort
-52274
+58408
 Successfully changed project path to: C:/Users/ADMIN/Downloads/Đồ Án CNTT - Cô An/Project-01/Game2D_H
 C:/Users/ADMIN/Downloads/Đồ Án CNTT - Cô An/Project-01/Game2D_H
 [UnityMemory] Configuration Parameters - Can be set up in boot.config
@@ -49,18 +49,18 @@ C:/Users/ADMIN/Downloads/Đồ Án CNTT - Cô An/Project-01/Game2D_H
     "memorysetup-temp-allocator-size-cloud-worker=32768"
     "memorysetup-temp-allocator-size-gi-baking-worker=262144"
     "memorysetup-temp-allocator-size-gfx=262144"
-Player connection [21416]  Target information:
+Player connection [15764]  Target information:
 
-Player connection [21416]  * "[IP] 192.168.56.1 [Port] 0 [Flags] 2 [Guid] 2379902550 [EditorId] 2379902550 [Version] 1048832 [Id] WindowsEditor(7,LAPTOP-7D271VJA) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+Player connection [15764]  * "[IP] 192.168.56.1 [Port] 0 [Flags] 2 [Guid] 2156905253 [EditorId] 2156905253 [Version] 1048832 [Id] WindowsEditor(7,LAPTOP-7D271VJA) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
 
-Player connection [21416]  * "[IP] 26.250.198.219 [Port] 0 [Flags] 2 [Guid] 2379902550 [EditorId] 2379902550 [Version] 1048832 [Id] WindowsEditor(7,LAPTOP-7D271VJA) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+Player connection [15764]  * "[IP] 26.250.198.219 [Port] 0 [Flags] 2 [Guid] 2156905253 [EditorId] 2156905253 [Version] 1048832 [Id] WindowsEditor(7,LAPTOP-7D271VJA) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
 
-Player connection [21416]  * "[IP] 192.168.101.4 [Port] 0 [Flags] 2 [Guid] 2379902550 [EditorId] 2379902550 [Version] 1048832 [Id] WindowsEditor(7,LAPTOP-7D271VJA) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
+Player connection [15764]  * "[IP] 192.168.101.4 [Port] 0 [Flags] 2 [Guid] 2156905253 [EditorId] 2156905253 [Version] 1048832 [Id] WindowsEditor(7,LAPTOP-7D271VJA) [Debug] 1 [PackageName] WindowsEditor [ProjectName] Editor" 
 
-Player connection [21416] Host joined multi-casting on [225.0.0.222:54997]...
-Player connection [21416] Host joined alternative multi-casting on [225.0.0.222:34997]...
+Player connection [15764] Host joined multi-casting on [225.0.0.222:54997]...
+Player connection [15764] Host joined alternative multi-casting on [225.0.0.222:34997]...
 [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
-Refreshing native plugins compatible for Editor in 12.06 ms, found 4 plugins.
+Refreshing native plugins compatible for Editor in 15.30 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
 Initialize engine version: 2022.3.43f1 (85497d293fa1)
 [Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2022.3.43f1/Editor/Data/Resources/UnitySubsystems
@@ -76,46 +76,46 @@ Initialize mono
 Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2022.3.43f1/Editor/Data/Managed'
 Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2022.3.43f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit-win32'
 Mono config path = 'C:/Program Files/Unity/Hub/Editor/2022.3.43f1/Editor/Data/MonoBleedingEdge/etc'
-Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56340
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56024
 Begin MonoManager ReloadAssembly
 Registering precompiled unity dll's ...
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.43f1/Editor/Data/PlaybackEngines/WebGLSupport/UnityEditor.WebGL.Extensions.dll
 Register platform support module: C:/Program Files/Unity/Hub/Editor/2022.3.43f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
-Registered in 0.007751 seconds.
-- Loaded All Assemblies, in  0.375 seconds
+Registered in 0.008351 seconds.
+- Loaded All Assemblies, in  0.536 seconds
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
 Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  0.273 seconds
-Domain Reload Profiling: 647ms
-	BeginReloadAssembly (120ms)
+- Finished resetting the current domain, in  0.345 seconds
+Domain Reload Profiling: 880ms
+	BeginReloadAssembly (209ms)
 		ExecutionOrderSort (0ms)
 		DisableScriptedObjects (0ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
 		CreateAndSetChildDomain (1ms)
-	RebuildCommonClasses (31ms)
-	RebuildNativeTypeToScriptingClass (10ms)
-	initialDomainReloadingComplete (59ms)
-	LoadAllAssembliesAndSetupDomain (155ms)
-		LoadAssemblies (118ms)
+	RebuildCommonClasses (51ms)
+	RebuildNativeTypeToScriptingClass (9ms)
+	initialDomainReloadingComplete (71ms)
+	LoadAllAssembliesAndSetupDomain (194ms)
+		LoadAssemblies (207ms)
 		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (152ms)
-			TypeCache.Refresh (151ms)
-				TypeCache.ScanAssembly (138ms)
+		AnalyzeDomain (191ms)
+			TypeCache.Refresh (189ms)
+				TypeCache.ScanAssembly (168ms)
 			ScanForSourceGeneratedMonoScriptInfo (0ms)
 			ResolveRequiredComponents (1ms)
-	FinalizeReload (273ms)
+	FinalizeReload (346ms)
 		ReleaseScriptCaches (0ms)
 		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (224ms)
+		SetupLoadedEditorAssemblies (299ms)
 			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (14ms)
+			InitializePlatformSupportModulesInManaged (11ms)
 			SetLoadedEditorAssemblies (7ms)
 			RefreshPlugins (0ms)
-			BeforeProcessingInitializeOnLoad (2ms)
-			ProcessInitializeOnLoadAttributes (153ms)
-			ProcessInitializeOnLoadMethodAttributes (48ms)
+			BeforeProcessingInitializeOnLoad (4ms)
+			ProcessInitializeOnLoadAttributes (210ms)
+			ProcessInitializeOnLoadMethodAttributes (68ms)
 			AfterProcessingInitializeOnLoad (0ms)
 			EditorAssembliesLoaded (0ms)
 		ExecutionOrderSort2 (0ms)
@@ -124,7 +124,7 @@ Domain Reload Profiling: 647ms
 Worker process is ready to serve import requests
 Caller must complete domain reload
 Begin MonoManager ReloadAssembly
-- Loaded All Assemblies, in  0.755 seconds
+- Loaded All Assemblies, in  0.820 seconds
 Native extension for WindowsStandalone target not found
 Native extension for WebGL target not found
 Package Manager log level set to [2]
@@ -132,47 +132,47 @@ Package Manager log level set to [2]
 [Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
 [Package Manager] Cannot connect to Unity Package Manager local server
 Mono: successfully reloaded assembly
-- Finished resetting the current domain, in  0.983 seconds
-Domain Reload Profiling: 1736ms
-	BeginReloadAssembly (148ms)
+- Finished resetting the current domain, in  1.025 seconds
+Domain Reload Profiling: 1842ms
+	BeginReloadAssembly (177ms)
 		ExecutionOrderSort (0ms)
-		DisableScriptedObjects (7ms)
+		DisableScriptedObjects (5ms)
 		BackupInstance (0ms)
 		ReleaseScriptingObjects (0ms)
-		CreateAndSetChildDomain (26ms)
-	RebuildCommonClasses (32ms)
-	RebuildNativeTypeToScriptingClass (9ms)
-	initialDomainReloadingComplete (40ms)
-	LoadAllAssembliesAndSetupDomain (523ms)
-		LoadAssemblies (350ms)
+		CreateAndSetChildDomain (24ms)
+	RebuildCommonClasses (33ms)
+	RebuildNativeTypeToScriptingClass (10ms)
+	initialDomainReloadingComplete (50ms)
+	LoadAllAssembliesAndSetupDomain (547ms)
+		LoadAssemblies (407ms)
 		RebuildTransferFunctionScriptingTraits (0ms)
-		AnalyzeDomain (255ms)
-			TypeCache.Refresh (206ms)
-				TypeCache.ScanAssembly (180ms)
-			ScanForSourceGeneratedMonoScriptInfo (38ms)
-			ResolveRequiredComponents (11ms)
-	FinalizeReload (984ms)
+		AnalyzeDomain (247ms)
+			TypeCache.Refresh (205ms)
+				TypeCache.ScanAssembly (188ms)
+			ScanForSourceGeneratedMonoScriptInfo (29ms)
+			ResolveRequiredComponents (12ms)
+	FinalizeReload (1026ms)
 		ReleaseScriptCaches (0ms)
 		RebuildScriptCaches (0ms)
-		SetupLoadedEditorAssemblies (802ms)
+		SetupLoadedEditorAssemblies (838ms)
 			LogAssemblyErrors (0ms)
-			InitializePlatformSupportModulesInManaged (7ms)
-			SetLoadedEditorAssemblies (6ms)
+			InitializePlatformSupportModulesInManaged (11ms)
+			SetLoadedEditorAssemblies (8ms)
 			RefreshPlugins (0ms)
-			BeforeProcessingInitializeOnLoad (89ms)
-			ProcessInitializeOnLoadAttributes (630ms)
-			ProcessInitializeOnLoadMethodAttributes (64ms)
+			BeforeProcessingInitializeOnLoad (96ms)
+			ProcessInitializeOnLoadAttributes (649ms)
+			ProcessInitializeOnLoadMethodAttributes (69ms)
 			AfterProcessingInitializeOnLoad (5ms)
 			EditorAssembliesLoaded (0ms)
 		ExecutionOrderSort2 (0ms)
-		AwakeInstancesAfterBackupRestoration (7ms)
-Launched and connected shader compiler UnityShaderCompiler.exe after 0.05 seconds
-Refreshing native plugins compatible for Editor in 5.56 ms, found 4 plugins.
+		AwakeInstancesAfterBackupRestoration (8ms)
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.07 seconds
+Refreshing native plugins compatible for Editor in 6.78 ms, found 4 plugins.
 Preloading 0 native plugins for Editor in 0.00 ms.
-Unloading 6213 Unused Serialized files (Serialized files now loaded: 0)
-Unloading 48 unused Assets / (419.4 KB). Loaded Objects now: 6682.
-Memory consumption went from 226.5 MB to 226.1 MB.
-Total: 4.971200 ms (FindLiveObjects: 0.693800 ms CreateObjectMapping: 0.490700 ms MarkObjects: 3.554600 ms  DeleteObjects: 0.230800 ms)
+Unloading 6216 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 48 unused Assets / (418.2 KB). Loaded Objects now: 6685.
+Memory consumption went from 226.7 MB to 226.3 MB.
+Total: 7.165000 ms (FindLiveObjects: 0.850000 ms CreateObjectMapping: 0.400600 ms MarkObjects: 5.613900 ms  DeleteObjects: 0.298900 ms)
 
 AssetImportParameters requested are different than current active one (requested -> active):
   custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
@@ -189,570 +189,500 @@ AssetImportParameters requested are different than current active one (requested
   custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  Time since last request: 1725.379572 seconds.
-  path: Assets/TileMap/Tile.prefab
-  artifactKey: Guid(4bdde9ccec2494243a2c1f9514019452) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/TileMap/Tile.prefab using Guid(4bdde9ccec2494243a2c1f9514019452) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+  Time since last request: 40962.447789 seconds.
+  path: Assets/Animations/Sword/Slash.controller
+  artifactKey: Guid(2cab77062d544364784352bd6574c34a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Sword/Slash.controller using Guid(2cab77062d544364784352bd6574c34a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: 'ac27df0c5ff73302d67f54ec160cbb2e') in 0.017098 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 2
+========================================================================
+Received Import Request.
+  Time since last request: 66.994167 seconds.
+  path: Assets/Scripts/Player Controls.inputactions
+  artifactKey: Guid(d10ece43606832844a1154f4acb037c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Player Controls.inputactions using Guid(d10ece43606832844a1154f4acb037c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '7c9accaab8b05e4ccca458b8e207c36e') in 0.003110 seconds
+Number of updated asset objects reloaded before import = 0
+Number of asset objects unloaded after import = 3
+========================================================================
+Received Prepare
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  1.202 seconds
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.209 seconds
+Domain Reload Profiling: 2412ms
+	BeginReloadAssembly (851ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (693ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (43ms)
+	RebuildCommonClasses (31ms)
+	RebuildNativeTypeToScriptingClass (15ms)
+	initialDomainReloadingComplete (35ms)
+	LoadAllAssembliesAndSetupDomain (271ms)
+		LoadAssemblies (325ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (26ms)
+			TypeCache.Refresh (8ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (16ms)
+	FinalizeReload (1210ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (973ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (9ms)
+			SetLoadedEditorAssemblies (5ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (100ms)
+			ProcessInitializeOnLoadAttributes (776ms)
+			ProcessInitializeOnLoadMethodAttributes (74ms)
+			AfterProcessingInitializeOnLoad (7ms)
+			EditorAssembliesLoaded (1ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (18ms)
+Refreshing native plugins compatible for Editor in 8.20 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 6062 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 21 unused Assets / (387.7 KB). Loaded Objects now: 6704.
+Memory consumption went from 200.5 MB to 200.1 MB.
+Total: 7.786500 ms (FindLiveObjects: 0.857400 ms CreateObjectMapping: 0.570600 ms MarkObjects: 6.202600 ms  DeleteObjects: 0.154500 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 72b91833f83ae208fae7752999fa3104 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.541 seconds
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  2.039 seconds
+Domain Reload Profiling: 2575ms
+	BeginReloadAssembly (172ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (12ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (39ms)
+	RebuildCommonClasses (36ms)
+	RebuildNativeTypeToScriptingClass (10ms)
+	initialDomainReloadingComplete (29ms)
+	LoadAllAssembliesAndSetupDomain (290ms)
+		LoadAssemblies (359ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (19ms)
+			TypeCache.Refresh (6ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (12ms)
+	FinalizeReload (2039ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1003ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (10ms)
+			SetLoadedEditorAssemblies (7ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (125ms)
+			ProcessInitializeOnLoadAttributes (778ms)
+			ProcessInitializeOnLoadMethodAttributes (77ms)
+			AfterProcessingInitializeOnLoad (6ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (18ms)
+Refreshing native plugins compatible for Editor in 8.16 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 6062 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 21 unused Assets / (387.9 KB). Loaded Objects now: 6721.
+Memory consumption went from 200.5 MB to 200.1 MB.
+Total: 6.963900 ms (FindLiveObjects: 0.548300 ms CreateObjectMapping: 0.515300 ms MarkObjects: 5.731200 ms  DeleteObjects: 0.168200 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 72b91833f83ae208fae7752999fa3104 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 553.451268 seconds.
+  path: Assets/TaiNguyen/Slash Perfab.prefab
+  artifactKey: Guid(d05a6099cc37b9947ab475828b784c62) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TaiNguyen/Slash Perfab.prefab using Guid(d05a6099cc37b9947ab475828b784c62) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
 [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: '92b0144688c636f26af5d68c50dd5bfd') in 0.326532 seconds
+ -> (artifact id: '5639541901bf476fc5ee700b90acb2f1') in 0.277258 seconds
 Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 419
+Number of asset objects unloaded after import = 29
+========================================================================
+Received Prepare
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.488 seconds
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.876 seconds
+Domain Reload Profiling: 2361ms
+	BeginReloadAssembly (159ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (14ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (43ms)
+	RebuildCommonClasses (36ms)
+	RebuildNativeTypeToScriptingClass (16ms)
+	initialDomainReloadingComplete (30ms)
+	LoadAllAssembliesAndSetupDomain (243ms)
+		LoadAssemblies (294ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (20ms)
+			TypeCache.Refresh (6ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (12ms)
+	FinalizeReload (1877ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (953ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (7ms)
+			SetLoadedEditorAssemblies (4ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (105ms)
+			ProcessInitializeOnLoadAttributes (747ms)
+			ProcessInitializeOnLoadMethodAttributes (81ms)
+			AfterProcessingInitializeOnLoad (8ms)
+			EditorAssembliesLoaded (1ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (24ms)
+Refreshing native plugins compatible for Editor in 7.60 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 6062 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 21 unused Assets / (387.7 KB). Loaded Objects now: 6784.
+Memory consumption went from 205.2 MB to 204.8 MB.
+Total: 5.871800 ms (FindLiveObjects: 0.588800 ms CreateObjectMapping: 0.508900 ms MarkObjects: 4.588800 ms  DeleteObjects: 0.184400 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 72b91833f83ae208fae7752999fa3104 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.509 seconds
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  2.171 seconds
+Domain Reload Profiling: 2677ms
+	BeginReloadAssembly (161ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (9ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (37ms)
+	RebuildCommonClasses (32ms)
+	RebuildNativeTypeToScriptingClass (12ms)
+	initialDomainReloadingComplete (36ms)
+	LoadAllAssembliesAndSetupDomain (265ms)
+		LoadAssemblies (328ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (22ms)
+			TypeCache.Refresh (5ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (15ms)
+	FinalizeReload (2171ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1078ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (10ms)
+			SetLoadedEditorAssemblies (7ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (142ms)
+			ProcessInitializeOnLoadAttributes (815ms)
+			ProcessInitializeOnLoadMethodAttributes (96ms)
+			AfterProcessingInitializeOnLoad (8ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (22ms)
+Refreshing native plugins compatible for Editor in 10.31 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 6062 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 21 unused Assets / (387.8 KB). Loaded Objects now: 6801.
+Memory consumption went from 205.2 MB to 204.8 MB.
+Total: 6.092500 ms (FindLiveObjects: 0.658300 ms CreateObjectMapping: 0.224500 ms MarkObjects: 5.038800 ms  DeleteObjects: 0.169800 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 72b91833f83ae208fae7752999fa3104 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.576 seconds
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.967 seconds
+Domain Reload Profiling: 2537ms
+	BeginReloadAssembly (177ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (14ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (39ms)
+	RebuildCommonClasses (49ms)
+	RebuildNativeTypeToScriptingClass (14ms)
+	initialDomainReloadingComplete (39ms)
+	LoadAllAssembliesAndSetupDomain (291ms)
+		LoadAssemblies (361ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (23ms)
+			TypeCache.Refresh (7ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (15ms)
+	FinalizeReload (1967ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (941ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (9ms)
+			SetLoadedEditorAssemblies (5ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (95ms)
+			ProcessInitializeOnLoadAttributes (759ms)
+			ProcessInitializeOnLoadMethodAttributes (68ms)
+			AfterProcessingInitializeOnLoad (6ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (19ms)
+Refreshing native plugins compatible for Editor in 8.27 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 6062 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 21 unused Assets / (387.9 KB). Loaded Objects now: 6818.
+Memory consumption went from 205.2 MB to 204.8 MB.
+Total: 5.462700 ms (FindLiveObjects: 0.487400 ms CreateObjectMapping: 0.458700 ms MarkObjects: 4.385100 ms  DeleteObjects: 0.130800 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 72b91833f83ae208fae7752999fa3104 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
 Received Import Request.
-  Time since last request: 104.091886 seconds.
-  path: Assets/TileMap/Fantasy/Tiles/Outdoor_Decor_Free_56.asset
-  artifactKey: Guid(4cd0743d84bc12249b08e66494041dd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/TileMap/Fantasy/Tiles/Outdoor_Decor_Free_56.asset using Guid(4cd0743d84bc12249b08e66494041dd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: '5732891f9bc78e54e12d0a881cb984aa') in 0.029275 seconds
+  Time since last request: 162.218117 seconds.
+  path: Assets/Animations/Sword/Sword.controller
+  artifactKey: Guid(a2f78418caf18fb489dfed7f4c01c264) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Animations/Sword/Sword.controller using Guid(a2f78418caf18fb489dfed7f4c01c264) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
+ -> (artifact id: '8aaabf21e0449f904cc65aa7a0a48ba5') in 0.015780 seconds
 Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
+Number of asset objects unloaded after import = 11
 ========================================================================
-Received Import Request.
-  Time since last request: 0.026040 seconds.
-  path: Assets/TileMap/Fantasy/Tiles/Outdoor_Decor_Free_32.asset
-  artifactKey: Guid(ba97d864c36972b4fb48521c8a07e013) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/TileMap/Fantasy/Tiles/Outdoor_Decor_Free_32.asset using Guid(ba97d864c36972b4fb48521c8a07e013) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: 'ab81e7fac7575178f28788f9c65ee0dc') in 0.012191 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
+Received Prepare
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.525 seconds
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  2.095 seconds
+Domain Reload Profiling: 2613ms
+	BeginReloadAssembly (152ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (11ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (38ms)
+	RebuildCommonClasses (30ms)
+	RebuildNativeTypeToScriptingClass (15ms)
+	initialDomainReloadingComplete (35ms)
+	LoadAllAssembliesAndSetupDomain (285ms)
+		LoadAssemblies (338ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (19ms)
+			TypeCache.Refresh (6ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (12ms)
+	FinalizeReload (2096ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (1050ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (12ms)
+			SetLoadedEditorAssemblies (6ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (119ms)
+			ProcessInitializeOnLoadAttributes (832ms)
+			ProcessInitializeOnLoadMethodAttributes (73ms)
+			AfterProcessingInitializeOnLoad (7ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (21ms)
+Refreshing native plugins compatible for Editor in 7.88 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 6062 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 21 unused Assets / (387.8 KB). Loaded Objects now: 6835.
+Memory consumption went from 205.2 MB to 204.8 MB.
+Total: 5.925000 ms (FindLiveObjects: 0.932000 ms CreateObjectMapping: 0.442700 ms MarkObjects: 4.378100 ms  DeleteObjects: 0.170300 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 72b91833f83ae208fae7752999fa3104 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
 ========================================================================
-Received Import Request.
-  Time since last request: 0.004228 seconds.
-  path: Assets/TileMap/Fantasy/Tiles/Outdoor_Decor_Free_38.asset
-  artifactKey: Guid(c66ab1c8c62485c42a9587731ef173e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/TileMap/Fantasy/Tiles/Outdoor_Decor_Free_38.asset using Guid(c66ab1c8c62485c42a9587731ef173e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: '7da9f9e91ecf86168c278e92e6d822a2') in 0.012474 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0.019590 seconds.
-  path: Assets/TileMap/Fantasy/Tiles/Outdoor_Decor_Free_58.asset
-  artifactKey: Guid(e506b21f178c3a94c8794f507acacd71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/TileMap/Fantasy/Tiles/Outdoor_Decor_Free_58.asset using Guid(e506b21f178c3a94c8794f507acacd71) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: 'de5347954cfee8ececab58819f06c727') in 0.013872 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0.008846 seconds.
-  path: Assets/TileMap/Fantasy/Tiles/Outdoor_Decor_Free_9.asset
-  artifactKey: Guid(a5bd948cce4cb884c9f21eeb61d45206) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/TileMap/Fantasy/Tiles/Outdoor_Decor_Free_9.asset using Guid(a5bd948cce4cb884c9f21eeb61d45206) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: '3fb9436596b956a8e2878eb6a84eb859') in 0.012368 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0.012866 seconds.
-  path: Assets/TileMap/Fantasy/Tiles/Outdoor_Decor_Free_21.asset
-  artifactKey: Guid(1b69c5785da6c25479777aad63f7e7eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/TileMap/Fantasy/Tiles/Outdoor_Decor_Free_21.asset using Guid(1b69c5785da6c25479777aad63f7e7eb) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: '352eb353300bbb2123a1a9c5629f9cdb') in 0.013394 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0.010080 seconds.
-  path: Assets/TileMap/Fantasy/Tiles/Outdoor_Decor_Free_2.asset
-  artifactKey: Guid(6746e967cce41644ab5930c12aaf6193) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/TileMap/Fantasy/Tiles/Outdoor_Decor_Free_2.asset using Guid(6746e967cce41644ab5930c12aaf6193) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: 'b31eea6d8cf62702d4f7d6efa877108e') in 0.014626 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0.015914 seconds.
-  path: Assets/TileMap/Fantasy/Tiles/Outdoor_Decor_Free_44.asset
-  artifactKey: Guid(884aa895e4409054da4ca42cc0c348fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/TileMap/Fantasy/Tiles/Outdoor_Decor_Free_44.asset using Guid(884aa895e4409054da4ca42cc0c348fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: '639bcd88c771e49bbfeba83847d81bea') in 0.014363 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0.036196 seconds.
-  path: Assets/TileMap/Fantasy/Tiles/Outdoor_Decor_Free_50.asset
-  artifactKey: Guid(5950cb699407ea34dbbb93ac89eef503) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/TileMap/Fantasy/Tiles/Outdoor_Decor_Free_50.asset using Guid(5950cb699407ea34dbbb93ac89eef503) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: 'b85799d0ef3ce5865152cd0c1fbc4649') in 0.013045 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0.019942 seconds.
-  path: Assets/TileMap/Fantasy/Tiles/Outdoor_Decor_Free_1.asset
-  artifactKey: Guid(c11f97fdf233ed1499e67be19f07d892) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/TileMap/Fantasy/Tiles/Outdoor_Decor_Free_1.asset using Guid(c11f97fdf233ed1499e67be19f07d892) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: '770d1ddde2bdad8dbe9b298e63488015') in 0.016014 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0.009737 seconds.
-  path: Assets/TileMap/Fantasy/Tiles/Outdoor_Decor_Free_28.asset
-  artifactKey: Guid(7020f676df4c59d4ebe4bc7c5be83d49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/TileMap/Fantasy/Tiles/Outdoor_Decor_Free_28.asset using Guid(7020f676df4c59d4ebe4bc7c5be83d49) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: '75482537c8ff56ea8606307df9be4026') in 0.013771 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0.004094 seconds.
-  path: Assets/TileMap/Fantasy/Tiles/Outdoor_Decor_Free_31.asset
-  artifactKey: Guid(8621ff9007e47ac4f94c3efdf0c7adce) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/TileMap/Fantasy/Tiles/Outdoor_Decor_Free_31.asset using Guid(8621ff9007e47ac4f94c3efdf0c7adce) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: '3883fc531e3a19135602dc8116b56a1f') in 0.014082 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0.008843 seconds.
-  path: Assets/TileMap/Fantasy/Tiles/Outdoor_Decor_Free_37.asset
-  artifactKey: Guid(4cdd9593141be2c4f96c3eb3f6356b71) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/TileMap/Fantasy/Tiles/Outdoor_Decor_Free_37.asset using Guid(4cdd9593141be2c4f96c3eb3f6356b71) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: '32b6673d141a88cab680971a27a65247') in 0.013427 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0.009533 seconds.
-  path: Assets/TileMap/Fantasy/Tiles/Outdoor_Decor_Free_55.asset
-  artifactKey: Guid(7a826081446bf84488334ffb10248295) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/TileMap/Fantasy/Tiles/Outdoor_Decor_Free_55.asset using Guid(7a826081446bf84488334ffb10248295) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: '037d09357d20020c70ccf324591aea4e') in 0.013348 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0.017538 seconds.
-  path: Assets/TileMap/Fantasy/Tiles/Outdoor_Decor_Free_29.asset
-  artifactKey: Guid(e2519df9e30997a409e873c19f7b6a91) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/TileMap/Fantasy/Tiles/Outdoor_Decor_Free_29.asset using Guid(e2519df9e30997a409e873c19f7b6a91) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: '1f7846daddbb0152d94b243241a1374b') in 0.013026 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0.005043 seconds.
-  path: Assets/TileMap/Fantasy/Tiles/Outdoor_Decor_Free_33.asset
-  artifactKey: Guid(2d9539ecf2da4d2479f1c896bee1d653) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/TileMap/Fantasy/Tiles/Outdoor_Decor_Free_33.asset using Guid(2d9539ecf2da4d2479f1c896bee1d653) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: 'b05a01e326a764e6fae4253ef0689605') in 0.011400 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0.012623 seconds.
-  path: Assets/TileMap/Fantasy/Tiles/Outdoor_Decor_Free_27.asset
-  artifactKey: Guid(6d554b1371617824cb3336bb1b30ee9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/TileMap/Fantasy/Tiles/Outdoor_Decor_Free_27.asset using Guid(6d554b1371617824cb3336bb1b30ee9f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: '10f1fe2d3cd54f726b082a4c911cfcb0') in 0.011533 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0.008421 seconds.
-  path: Assets/TileMap/Fantasy/Tiles/Outdoor_Decor_Free_40.asset
-  artifactKey: Guid(93abdac3bfcc971458a5526ef6cc66fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/TileMap/Fantasy/Tiles/Outdoor_Decor_Free_40.asset using Guid(93abdac3bfcc971458a5526ef6cc66fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: '6a0441bc9be1f736087d0a0db81794b1') in 0.011418 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0.004285 seconds.
-  path: Assets/TileMap/Fantasy/Tiles/Outdoor_Decor_Free_46.asset
-  artifactKey: Guid(6516cce4efd0cc0458ae5a6a26c3ef1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/TileMap/Fantasy/Tiles/Outdoor_Decor_Free_46.asset using Guid(6516cce4efd0cc0458ae5a6a26c3ef1f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: '596052c13ae514927a10fdc5f4b64033') in 0.011231 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0.024286 seconds.
-  path: Assets/TileMap/Fantasy/Tiles/Outdoor_Decor_Free_24.asset
-  artifactKey: Guid(8f4505235270e6e4f9c8020d0d5612fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/TileMap/Fantasy/Tiles/Outdoor_Decor_Free_24.asset using Guid(8f4505235270e6e4f9c8020d0d5612fe) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: 'f1b40310671c9f9e33f64bd65aa216f4') in 0.010807 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0.015950 seconds.
-  path: Assets/TileMap/Fantasy/Tiles/Outdoor_Decor_Free_39.asset
-  artifactKey: Guid(06b3dc000cae50745ac9f2607b25bf58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/TileMap/Fantasy/Tiles/Outdoor_Decor_Free_39.asset using Guid(06b3dc000cae50745ac9f2607b25bf58) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: '8fdfb9a4ab40f06a91be6c45dce5854b') in 0.012510 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0.012669 seconds.
-  path: Assets/TileMap/Fantasy/Tiles/Outdoor_Decor_Free_51.asset
-  artifactKey: Guid(081855e6e63328e4b8448ff81ede9f84) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/TileMap/Fantasy/Tiles/Outdoor_Decor_Free_51.asset using Guid(081855e6e63328e4b8448ff81ede9f84) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: '67131d84896e90bab383be4a6608b811') in 0.010955 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0.022077 seconds.
-  path: Assets/TileMap/Fantasy/Tiles/Outdoor_Decor_Free_57.asset
-  artifactKey: Guid(41a4b78d130734b4c800ae5f3240d161) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/TileMap/Fantasy/Tiles/Outdoor_Decor_Free_57.asset using Guid(41a4b78d130734b4c800ae5f3240d161) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: 'a9bdbb3e9209e6b2da9fefb2dfcf4d2e') in 0.011388 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0.017562 seconds.
-  path: Assets/TileMap/Fantasy/Tiles/Outdoor_Decor_Free_15.asset
-  artifactKey: Guid(83e1ec52dcd6ca84394b39677f205850) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/TileMap/Fantasy/Tiles/Outdoor_Decor_Free_15.asset using Guid(83e1ec52dcd6ca84394b39677f205850) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: 'd672d737e2f3d9296c2dfabc13ae95fb') in 0.012665 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0.020855 seconds.
-  path: Assets/TileMap/Fantasy/Tiles/Outdoor_Decor_Free_13.asset
-  artifactKey: Guid(a5605a709c40b094287731f448bc2019) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/TileMap/Fantasy/Tiles/Outdoor_Decor_Free_13.asset using Guid(a5605a709c40b094287731f448bc2019) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: 'aaf4f9e1e392f4ab2af42a6ea6ca4a85') in 0.011974 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0.032242 seconds.
-  path: Assets/TileMap/Fantasy/Tiles/Outdoor_Decor_Free_45.asset
-  artifactKey: Guid(c15b8912c040df948a4860295fdf3381) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/TileMap/Fantasy/Tiles/Outdoor_Decor_Free_45.asset using Guid(c15b8912c040df948a4860295fdf3381) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: '44d8dca39d6207f8c9af26c77ebc356f') in 0.012718 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0.004353 seconds.
-  path: Assets/TileMap/Fantasy/Tiles/Outdoor_Decor_Free_14.asset
-  artifactKey: Guid(752f756a4fa6767408234c38a39d3a79) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/TileMap/Fantasy/Tiles/Outdoor_Decor_Free_14.asset using Guid(752f756a4fa6767408234c38a39d3a79) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: '026ed9cbc89fdca2447dc74348ac2426') in 0.011834 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0.008729 seconds.
-  path: Assets/TileMap/Fantasy/Tiles/Outdoor_Decor_Free_34.asset
-  artifactKey: Guid(389cb6c412b5c674bab7f23f07c6ba82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/TileMap/Fantasy/Tiles/Outdoor_Decor_Free_34.asset using Guid(389cb6c412b5c674bab7f23f07c6ba82) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: '8c2c6973257aac7b6588092a19fb6ccb') in 0.014896 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0.018574 seconds.
-  path: Assets/TileMap/Fantasy/Tiles/Outdoor_Decor_Free_16.asset
-  artifactKey: Guid(ad8284fc84aabd8459836da528d4ac65) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/TileMap/Fantasy/Tiles/Outdoor_Decor_Free_16.asset using Guid(ad8284fc84aabd8459836da528d4ac65) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: 'fc5c8c24bf425052437f911d7d178200') in 0.014470 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0.004108 seconds.
-  path: Assets/TileMap/Fantasy/Tiles/Outdoor_Decor_Free_52.asset
-  artifactKey: Guid(a42ea155a4960774aa941dcaaba153d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/TileMap/Fantasy/Tiles/Outdoor_Decor_Free_52.asset using Guid(a42ea155a4960774aa941dcaaba153d6) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: '86f4547cd47f01223a15a319bb82a4d0') in 0.012788 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0.017333 seconds.
-  path: Assets/TileMap/Fantasy/Tiles/Outdoor_Decor_Free_3.asset
-  artifactKey: Guid(1ab751377f5e8ca4abdd96d353a6bd50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/TileMap/Fantasy/Tiles/Outdoor_Decor_Free_3.asset using Guid(1ab751377f5e8ca4abdd96d353a6bd50) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: '690b21b029597664197ccf2cf38e69d2') in 0.013803 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0.013155 seconds.
-  path: Assets/TileMap/Fantasy/Tiles/Outdoor_Decor_Free_41.asset
-  artifactKey: Guid(c40fc4f587ef0354da881ced8d51af3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/TileMap/Fantasy/Tiles/Outdoor_Decor_Free_41.asset using Guid(c40fc4f587ef0354da881ced8d51af3c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: 'c70db034471d6f72adf79fe7a3ca9ece') in 0.013243 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0.038645 seconds.
-  path: Assets/TileMap/Fantasy/Tiles/Outdoor_Decor_Free_43.asset
-  artifactKey: Guid(184caa01aa35ef64a8b40c48955cbadf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/TileMap/Fantasy/Tiles/Outdoor_Decor_Free_43.asset using Guid(184caa01aa35ef64a8b40c48955cbadf) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: 'f3a84701a64502c3c3e70be63d13b970') in 0.014297 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0.008219 seconds.
-  path: Assets/TileMap/Fantasy/Tiles/Outdoor_Decor_Free_12.asset
-  artifactKey: Guid(0990239862cd6694cb1245957c4daea8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/TileMap/Fantasy/Tiles/Outdoor_Decor_Free_12.asset using Guid(0990239862cd6694cb1245957c4daea8) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: '95cd9c2a2e76b7c416420f6ad39d43e2') in 0.012557 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0.029765 seconds.
-  path: Assets/TileMap/Fantasy/Tiles/Outdoor_Decor_Free_4.asset
-  artifactKey: Guid(3b5e62a8a002dcc4abe9de1f782562a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/TileMap/Fantasy/Tiles/Outdoor_Decor_Free_4.asset using Guid(3b5e62a8a002dcc4abe9de1f782562a5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: 'f64c02ad01f64aa7c4f85088caae18bc') in 0.013392 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0.012746 seconds.
-  path: Assets/TileMap/Fantasy/Tiles/Outdoor_Decor_Free_20.asset
-  artifactKey: Guid(f43f373c0491323439273f6d91968c8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/TileMap/Fantasy/Tiles/Outdoor_Decor_Free_20.asset using Guid(f43f373c0491323439273f6d91968c8f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: '5ec0cc87acd8ec12e0291c30151ce831') in 0.013646 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0.004180 seconds.
-  path: Assets/TileMap/Fantasy/Tiles/Outdoor_Decor_Free_48.asset
-  artifactKey: Guid(0becd4880ad0d9548bfe35973d13d0e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/TileMap/Fantasy/Tiles/Outdoor_Decor_Free_48.asset using Guid(0becd4880ad0d9548bfe35973d13d0e5) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: '1af9398585c40767ae00d0368031c352') in 0.012132 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0.040509 seconds.
-  path: Assets/TileMap/Fantasy/Tiles/Outdoor_Decor_Free_54.asset
-  artifactKey: Guid(9bfb733dded5d1948bba63361a38a3ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/TileMap/Fantasy/Tiles/Outdoor_Decor_Free_54.asset using Guid(9bfb733dded5d1948bba63361a38a3ec) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: '209ef9cf79e4767176ecff6aba71c62e') in 0.012248 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0.008446 seconds.
-  path: Assets/TileMap/Fantasy/Tiles/Outdoor_Decor_Free_18.asset
-  artifactKey: Guid(38c3d3c85ef4ac94e8638aff2697e5ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/TileMap/Fantasy/Tiles/Outdoor_Decor_Free_18.asset using Guid(38c3d3c85ef4ac94e8638aff2697e5ee) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: 'f893fc4bff4eaaecbea0e8c0f5b6f79b') in 0.012642 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0.004453 seconds.
-  path: Assets/TileMap/Fantasy/Tiles/Outdoor_Decor_Free_8.asset
-  artifactKey: Guid(10fc747cb0b8f4b46b9cd832cac8b006) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/TileMap/Fantasy/Tiles/Outdoor_Decor_Free_8.asset using Guid(10fc747cb0b8f4b46b9cd832cac8b006) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: 'eade1849cfacae96d5dab2a3abe885c8') in 0.013123 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0.012369 seconds.
-  path: Assets/TileMap/Fantasy/Tiles/Outdoor_Decor_Free_26.asset
-  artifactKey: Guid(998a3d2139a4a1f40b81c8483680ce00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/TileMap/Fantasy/Tiles/Outdoor_Decor_Free_26.asset using Guid(998a3d2139a4a1f40b81c8483680ce00) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: 'c2476a0e8e00b3d9ad9a69ca32c7c7b0') in 0.012691 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0.012191 seconds.
-  path: Assets/TileMap/Fantasy/Tiles/Outdoor_Decor_Free_7.asset
-  artifactKey: Guid(428c4b2b13b97334183f283c2962bc52) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/TileMap/Fantasy/Tiles/Outdoor_Decor_Free_7.asset using Guid(428c4b2b13b97334183f283c2962bc52) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: 'aa67cfa45a58120cf4a598878a97bc34') in 0.013478 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0.003659 seconds.
-  path: Assets/TileMap/Fantasy/Tiles/Outdoor_Decor_Free_10.asset
-  artifactKey: Guid(547bfa423f4263749ad64dfc9f8c9149) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/TileMap/Fantasy/Tiles/Outdoor_Decor_Free_10.asset using Guid(547bfa423f4263749ad64dfc9f8c9149) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: 'b423c4580a3cbaeb7c2301640760f126') in 0.013717 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0.003826 seconds.
-  path: Assets/TileMap/Fantasy/Tiles/Outdoor_Decor_Free_42.asset
-  artifactKey: Guid(ee411baafc605d94db301d19404e67cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/TileMap/Fantasy/Tiles/Outdoor_Decor_Free_42.asset using Guid(ee411baafc605d94db301d19404e67cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: '6afbcc2b1318afe139e5cb6af65ff89a') in 0.011424 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0.004097 seconds.
-  path: Assets/TileMap/Fantasy/Tiles/Outdoor_Decor_Free_36.asset
-  artifactKey: Guid(597d11419d0e2254a8e574e0a06b4440) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/TileMap/Fantasy/Tiles/Outdoor_Decor_Free_36.asset using Guid(597d11419d0e2254a8e574e0a06b4440) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: '68c02bdd8117dda2b93fca5045ddab3a') in 0.013007 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0.012620 seconds.
-  path: Assets/TileMap/Fantasy/Tiles/Outdoor_Decor_Free_53.asset
-  artifactKey: Guid(67308e5b1766ae74cbd06e331fdfe3db) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/TileMap/Fantasy/Tiles/Outdoor_Decor_Free_53.asset using Guid(67308e5b1766ae74cbd06e331fdfe3db) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: '3ea533aa65f6335d8945de3866d682a9') in 0.012218 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0.003779 seconds.
-  path: Assets/TileMap/Fantasy/Tiles/Outdoor_Decor_Free_11.asset
-  artifactKey: Guid(0bde5d4f848105f47a472b943eed3ebd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/TileMap/Fantasy/Tiles/Outdoor_Decor_Free_11.asset using Guid(0bde5d4f848105f47a472b943eed3ebd) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: '510783956dbf4ad80d24b2b81b2ceacf') in 0.012131 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0.003488 seconds.
-  path: Assets/TileMap/Fantasy/Tiles/Outdoor_Decor_Free_6.asset
-  artifactKey: Guid(311579458c85b1144a8dcfd30942d2fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/TileMap/Fantasy/Tiles/Outdoor_Decor_Free_6.asset using Guid(311579458c85b1144a8dcfd30942d2fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: '09bca684a2035376796c037c0b4875da') in 0.011211 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0.024166 seconds.
-  path: Assets/TileMap/Fantasy/Tiles/Outdoor_Decor_Free_49.asset
-  artifactKey: Guid(98fb33bbac5496243bf8606056032e7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/TileMap/Fantasy/Tiles/Outdoor_Decor_Free_49.asset using Guid(98fb33bbac5496243bf8606056032e7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: 'd0e87e8211aa1c5f00dfbf165c1152f6') in 0.011909 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0.024667 seconds.
-  path: Assets/TileMap/Fantasy/Tiles/Outdoor_Decor_Free_35.asset
-  artifactKey: Guid(216be48e6be9f5342aa2f71984b7f8b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/TileMap/Fantasy/Tiles/Outdoor_Decor_Free_35.asset using Guid(216be48e6be9f5342aa2f71984b7f8b1) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: 'bac8690057a2344eaa2b3b4896ce1135') in 0.012612 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0.013296 seconds.
-  path: Assets/TileMap/Fantasy/Tiles/Outdoor_Decor_Free_23.asset
-  artifactKey: Guid(7d5f4d45ac253d944bd50621851b99a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/TileMap/Fantasy/Tiles/Outdoor_Decor_Free_23.asset using Guid(7d5f4d45ac253d944bd50621851b99a9) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: '23bd1aadb6bf6815b5b2e2b6165fdc81') in 0.011991 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0.003984 seconds.
-  path: Assets/TileMap/Fantasy/Tiles/Outdoor_Decor_Free_0.asset
-  artifactKey: Guid(eb9ccac4a37f3184e88a0694cbdcc116) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/TileMap/Fantasy/Tiles/Outdoor_Decor_Free_0.asset using Guid(eb9ccac4a37f3184e88a0694cbdcc116) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: 'd54e39d847273d71f2ef318f87d72eef') in 0.011758 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0.033867 seconds.
-  path: Assets/TileMap/Fantasy/Tiles/Outdoor_Decor_Free_5.asset
-  artifactKey: Guid(fb7fbe581ac7b864396cf4754883148e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/TileMap/Fantasy/Tiles/Outdoor_Decor_Free_5.asset using Guid(fb7fbe581ac7b864396cf4754883148e) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: 'c4f4c39a4ead68e63118e617e1366cf0') in 0.012970 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0.003928 seconds.
-  path: Assets/TileMap/Fantasy/Tiles/Outdoor_Decor_Free_47.asset
-  artifactKey: Guid(1b3f2fff4d402c34a89aeb67dda6736f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/TileMap/Fantasy/Tiles/Outdoor_Decor_Free_47.asset using Guid(1b3f2fff4d402c34a89aeb67dda6736f) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: 'beae3a28b9ebf4cc4570b2a0b5fbeb85') in 0.015204 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0.009676 seconds.
-  path: Assets/TileMap/Fantasy/Tiles/Outdoor_Decor_Free_25.asset
-  artifactKey: Guid(94ff434beee025341aa65fcf230c331a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/TileMap/Fantasy/Tiles/Outdoor_Decor_Free_25.asset using Guid(94ff434beee025341aa65fcf230c331a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: '351b6101f674be300eed811f09d94f5c') in 0.012831 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0.004004 seconds.
-  path: Assets/TileMap/Fantasy/Tiles/Outdoor_Decor_Free_30.asset
-  artifactKey: Guid(5f20115c86915b140a52aaf04bc05267) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/TileMap/Fantasy/Tiles/Outdoor_Decor_Free_30.asset using Guid(5f20115c86915b140a52aaf04bc05267) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: 'cfbaa1ad898cc1f04bf0646aa11eb699') in 0.016752 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0.015592 seconds.
-  path: Assets/TileMap/Fantasy/Tiles/Outdoor_Decor_Free_22.asset
-  artifactKey: Guid(a2659e2413e17164f89f82dfdcea9b54) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/TileMap/Fantasy/Tiles/Outdoor_Decor_Free_22.asset using Guid(a2659e2413e17164f89f82dfdcea9b54) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: '09363073b5a490e99dd39ae27b69071c') in 0.016155 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0.016493 seconds.
-  path: Assets/TileMap/Fantasy/Tiles/Outdoor_Decor_Free_19.asset
-  artifactKey: Guid(7e89e5627e681944aa5acabe08bab7c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/TileMap/Fantasy/Tiles/Outdoor_Decor_Free_19.asset using Guid(7e89e5627e681944aa5acabe08bab7c2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: '71a5848d00fae1f7c500287b4196e96d') in 0.012190 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 0.008596 seconds.
-  path: Assets/TileMap/Fantasy/Tiles/Outdoor_Decor_Free_17.asset
-  artifactKey: Guid(b29cf3ba8fb10b145b0d234ffe05832a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/TileMap/Fantasy/Tiles/Outdoor_Decor_Free_17.asset using Guid(b29cf3ba8fb10b145b0d234ffe05832a) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: 'c6f4bac41ff4724ff6f40f04dbf9c460') in 0.012170 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
-========================================================================
-Received Import Request.
-  Time since last request: 153.077244 seconds.
-  path: Packages/com.unity.2d.animation/package.json
-  artifactKey: Guid(9e83c20a8293f44ec8a375d3805f477d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Packages/com.unity.2d.animation/package.json using Guid(9e83c20a8293f44ec8a375d3805f477d) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: '486806016cfc07bff9200050d1d8e7df') in 0.001242 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 1
-========================================================================
-Received Import Request.
-  Time since last request: 2.571923 seconds.
-  path: Packages/com.unity.2d.animation/Editor/Unity.2D.Animation.Editor.asmdef
-  artifactKey: Guid(7e93558c536f24149a3181fbe0a14523) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Packages/com.unity.2d.animation/Editor/Unity.2D.Animation.Editor.asmdef using Guid(7e93558c536f24149a3181fbe0a14523) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: '473ba790cd01e2dc49ce868681d0bad4') in 0.000700 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 0
-========================================================================
-Received Import Request.
-  Time since last request: 1361.614587 seconds.
-  path: Assets/TaiNguyen/BinhMau/potions.png
-  artifactKey: Guid(5c5c80286bafad74ba0f8c4b629149a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
-Start importing Assets/TaiNguyen/BinhMau/potions.png using Guid(5c5c80286bafad74ba0f8c4b629149a2) Importer(815301076,1909f56bfc062723c751e8b465ee728b) [PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
-[PhysX] Initialized MultithreadedTaskDispatcher with 12 workers.
- -> (artifact id: '80c6d4a6fd972965e52a65b001d36461') in 0.039002 seconds
-Number of updated asset objects reloaded before import = 0
-Number of asset objects unloaded after import = 3
+Received Prepare
+Caller must complete domain reload
+Begin MonoManager ReloadAssembly
+- Loaded All Assemblies, in  0.566 seconds
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+[Package Manager] Server::EnsureServerProcessIsRunning -- launch failed, reason: Unity was launched with the -noUpm command-line argument
+[Package Manager] UpmClient::Send -- Unable to send message (not connected to UPM process).
+[Package Manager] Cannot connect to Unity Package Manager local server
+Mono: successfully reloaded assembly
+- Finished resetting the current domain, in  1.953 seconds
+Domain Reload Profiling: 2516ms
+	BeginReloadAssembly (187ms)
+		ExecutionOrderSort (0ms)
+		DisableScriptedObjects (10ms)
+		BackupInstance (0ms)
+		ReleaseScriptingObjects (0ms)
+		CreateAndSetChildDomain (49ms)
+	RebuildCommonClasses (37ms)
+	RebuildNativeTypeToScriptingClass (16ms)
+	initialDomainReloadingComplete (37ms)
+	LoadAllAssembliesAndSetupDomain (285ms)
+		LoadAssemblies (361ms)
+		RebuildTransferFunctionScriptingTraits (0ms)
+		AnalyzeDomain (18ms)
+			TypeCache.Refresh (6ms)
+				TypeCache.ScanAssembly (0ms)
+			ScanForSourceGeneratedMonoScriptInfo (0ms)
+			ResolveRequiredComponents (11ms)
+	FinalizeReload (1953ms)
+		ReleaseScriptCaches (0ms)
+		RebuildScriptCaches (0ms)
+		SetupLoadedEditorAssemblies (994ms)
+			LogAssemblyErrors (0ms)
+			InitializePlatformSupportModulesInManaged (9ms)
+			SetLoadedEditorAssemblies (6ms)
+			RefreshPlugins (0ms)
+			BeforeProcessingInitializeOnLoad (130ms)
+			ProcessInitializeOnLoadAttributes (765ms)
+			ProcessInitializeOnLoadMethodAttributes (77ms)
+			AfterProcessingInitializeOnLoad (6ms)
+			EditorAssembliesLoaded (0ms)
+		ExecutionOrderSort2 (0ms)
+		AwakeInstancesAfterBackupRestoration (20ms)
+Refreshing native plugins compatible for Editor in 8.77 ms, found 4 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 6062 Unused Serialized files (Serialized files now loaded: 0)
+Unloading 21 unused Assets / (387.9 KB). Loaded Objects now: 6852.
+Memory consumption went from 205.2 MB to 204.8 MB.
+Total: 6.071100 ms (FindLiveObjects: 0.630800 ms CreateObjectMapping: 0.394100 ms MarkObjects: 4.835100 ms  DeleteObjects: 0.210000 ms)
+
+Prepare: number of updated asset objects reloaded= 0
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:CustomObjectIndexerAttribute: 72b91833f83ae208fae7752999fa3104 -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:SearchIndexIgnoredProperties: e643bd26f0fe6173181afceb89e7c659 -> 
+  custom:AudioImporter_EditorPlatform: d09bf68614088b80899f8185d706f6e7 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
