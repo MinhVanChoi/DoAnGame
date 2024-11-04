@@ -32,5 +32,6 @@ public class EnemyAI : MonoBehaviour
     private Vector2 GetRoamPosition()
     {
         return new Vector2(Random.Range(-1f, 1f), Random.Range(-1f, 1f)).normalized;
+
     }
 }
