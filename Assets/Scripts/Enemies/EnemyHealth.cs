@@ -5,35 +5,35 @@ using UnityEngine;
 public class EnemyHealth : MonoBehaviour
 {
     [SerializeField] private int startingHealth = 3;
-    [SerializeField] private float knockBackThrust = 15f;
+    [SerializeField] private GameObject deathVFXPrefab;
 
-    private int health;
+    private int currentHealth;
     private Knockback knockback;
     private Flash flash;
+
     private void Awake()
     {
         flash = GetComponent<Flash>();
         knockback = GetComponent<Knockback>();
     }
+
     private void Start()
     {
-        health = startingHealth;
+        currentHealth = startingHealth;
     }
+
     public void TakeDamage(int damage)
     {
-        health -= damage;
-        knockback.GetKnockedBack(PlayerController.Instance.transform, knockBackThrust);
+        currentHealth -= damage;
+        knockback.GetKnockedBack(PlayerController.Instance.transform, 15f);
         StartCoroutine(flash.FlashRoutine());
     }
-    private IEnumerator CheckDetectDeathRoutine()
-    {
-        yield return new WaitForSeconds(flash.GetRestoreMatTime());
-        DetectDeath();
-    }
+
     public void DetectDeath()
     {
-        if (health <= 0)
+        if (currentHealth <= 0)
         {
+            Instantiate(deathVFXPrefab, transform.position, Quaternion.identity);
             Destroy(gameObject);
         }
     }
