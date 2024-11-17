@@ -3,36 +3,108 @@
   "WorkspaceRootPath": "C:\\Users\\tuankiet\\Downloads\\Game2D_H\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8105CCEA-1551-B11D-F5CE-DB778B5BD4BE}|Assembly-CSharp.csproj|c:\\users\\tuankiet\\downloads\\game2d_h\\assets\\scripts\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8105CCEA-1551-B11D-F5CE-DB778B5BD4BE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8105CCEA-1551-B11D-F5CE-DB778B5BD4BE}|Assembly-CSharp.csproj|c:\\users\\tuankiet\\downloads\\game2d_h\\assets\\scripts\\enemies\\shooter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8105CCEA-1551-B11D-F5CE-DB778B5BD4BE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemies\\shooter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8105CCEA-1551-B11D-F5CE-DB778B5BD4BE}|Assembly-CSharp.csproj|c:\\users\\tuankiet\\downloads\\game2d_h\\assets\\scripts\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8105CCEA-1551-B11D-F5CE-DB778B5BD4BE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8105CCEA-1551-B11D-F5CE-DB778B5BD4BE}|Assembly-CSharp.csproj|c:\\users\\tuankiet\\downloads\\game2d_h\\assets\\scripts\\enemies\\enemyai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8105CCEA-1551-B11D-F5CE-DB778B5BD4BE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemies\\enemyai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8105CCEA-1551-B11D-F5CE-DB778B5BD4BE}|Assembly-CSharp.csproj|c:\\users\\tuankiet\\downloads\\game2d_h\\assets\\scripts\\enemies\\enemyhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8105CCEA-1551-B11D-F5CE-DB778B5BD4BE}|Assembly-CSharp.csproj|C:\\Users\\tuankiet\\Downloads\\Game2D_H\\assets\\scripts\\enemies\\enemypathfinding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8105CCEA-1551-B11D-F5CE-DB778B5BD4BE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemies\\enemypathfinding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8105CCEA-1551-B11D-F5CE-DB778B5BD4BE}|Assembly-CSharp.csproj|c:\\users\\tuankiet\\downloads\\game2d_h\\assets\\scripts\\enemies\\ienemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8105CCEA-1551-B11D-F5CE-DB778B5BD4BE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemies\\ienemy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8105CCEA-1551-B11D-F5CE-DB778B5BD4BE}|Assembly-CSharp.csproj|C:\\Users\\tuankiet\\Downloads\\Game2D_H\\assets\\scripts\\player\\playerheath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8105CCEA-1551-B11D-F5CE-DB778B5BD4BE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playerheath.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8105CCEA-1551-B11D-F5CE-DB778B5BD4BE}|Assembly-CSharp.csproj|C:\\Users\\tuankiet\\Downloads\\Game2D_H\\assets\\scripts\\bow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8105CCEA-1551-B11D-F5CE-DB778B5BD4BE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\bow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8105CCEA-1551-B11D-F5CE-DB778B5BD4BE}|Assembly-CSharp.csproj|C:\\Users\\tuankiet\\Downloads\\Game2D_H\\assets\\scripts\\enemies\\enemyhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8105CCEA-1551-B11D-F5CE-DB778B5BD4BE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemies\\enemyhealth.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8105CCEA-1551-B11D-F5CE-DB778B5BD4BE}|Assembly-CSharp.csproj|c:\\users\\tuankiet\\downloads\\game2d_h\\assets\\scripts\\enemies\\enemypathfinding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8105CCEA-1551-B11D-F5CE-DB778B5BD4BE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemies\\enemypathfinding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8105CCEA-1551-B11D-F5CE-DB778B5BD4BE}|Assembly-CSharp.csproj|C:\\Users\\tuankiet\\Downloads\\Game2D_H\\assets\\scripts\\management\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8105CCEA-1551-B11D-F5CE-DB778B5BD4BE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\management\\cameracontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8105CCEA-1551-B11D-F5CE-DB778B5BD4BE}|Assembly-CSharp.csproj|C:\\Users\\tuankiet\\Downloads\\Game2D_H\\assets\\scripts\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8105CCEA-1551-B11D-F5CE-DB778B5BD4BE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8105CCEA-1551-B11D-F5CE-DB778B5BD4BE}|Assembly-CSharp.csproj|C:\\Users\\tuankiet\\Downloads\\Game2D_H\\assets\\scripts\\misc\\knockback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8105CCEA-1551-B11D-F5CE-DB778B5BD4BE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\misc\\knockback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8105CCEA-1551-B11D-F5CE-DB778B5BD4BE}|Assembly-CSharp.csproj|C:\\Users\\tuankiet\\Downloads\\Game2D_H\\assets\\scripts\\misc\\flash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8105CCEA-1551-B11D-F5CE-DB778B5BD4BE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\misc\\flash.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8105CCEA-1551-B11D-F5CE-DB778B5BD4BE}|Assembly-CSharp.csproj|c:\\users\\tuankiet\\downloads\\game2d_h\\assets\\scripts\\misc\\knockback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{8105CCEA-1551-B11D-F5CE-DB778B5BD4BE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\misc\\knockback.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{8105CCEA-1551-B11D-F5CE-DB778B5BD4BE}|Assembly-CSharp.csproj|C:\\Users\\tuankiet\\Downloads\\Game2D_H\\assets\\scripts\\ui\\activeinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8105CCEA-1551-B11D-F5CE-DB778B5BD4BE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\ui\\activeinventory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8105CCEA-1551-B11D-F5CE-DB778B5BD4BE}|Assembly-CSharp.csproj|c:\\users\\tuankiet\\downloads\\game2d_h\\assets\\scripts\\player\\damagesource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8105CCEA-1551-B11D-F5CE-DB778B5BD4BE}|Assembly-CSharp.csproj|C:\\Users\\tuankiet\\Downloads\\Game2D_H\\assets\\scripts\\magiclaser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8105CCEA-1551-B11D-F5CE-DB778B5BD4BE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\magiclaser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8105CCEA-1551-B11D-F5CE-DB778B5BD4BE}|Assembly-CSharp.csproj|C:\\Users\\tuankiet\\Downloads\\Game2D_H\\assets\\scripts\\player\\activeweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8105CCEA-1551-B11D-F5CE-DB778B5BD4BE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\activeweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8105CCEA-1551-B11D-F5CE-DB778B5BD4BE}|Assembly-CSharp.csproj|C:\\Users\\tuankiet\\Downloads\\Game2D_H\\assets\\scripts\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8105CCEA-1551-B11D-F5CE-DB778B5BD4BE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8105CCEA-1551-B11D-F5CE-DB778B5BD4BE}|Assembly-CSharp.csproj|C:\\Users\\tuankiet\\Downloads\\Game2D_H\\assets\\scripts\\player\\damagesource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8105CCEA-1551-B11D-F5CE-DB778B5BD4BE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\damagesource.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8105CCEA-1551-B11D-F5CE-DB778B5BD4BE}|Assembly-CSharp.csproj|c:\\users\\tuankiet\\downloads\\game2d_h\\assets\\scripts\\player\\sword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{8105CCEA-1551-B11D-F5CE-DB778B5BD4BE}|Assembly-CSharp.csproj|C:\\Users\\tuankiet\\Downloads\\Game2D_H\\assets\\scripts\\spritefade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8105CCEA-1551-B11D-F5CE-DB778B5BD4BE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\spritefade.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8105CCEA-1551-B11D-F5CE-DB778B5BD4BE}|Assembly-CSharp.csproj|C:\\Users\\tuankiet\\Downloads\\Game2D_H\\assets\\scripts\\misc\\detructible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8105CCEA-1551-B11D-F5CE-DB778B5BD4BE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\misc\\detructible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8105CCEA-1551-B11D-F5CE-DB778B5BD4BE}|Assembly-CSharp.csproj|C:\\Users\\tuankiet\\Downloads\\Game2D_H\\assets\\scripts\\indestructible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8105CCEA-1551-B11D-F5CE-DB778B5BD4BE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\indestructible.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8105CCEA-1551-B11D-F5CE-DB778B5BD4BE}|Assembly-CSharp.csproj|C:\\Users\\tuankiet\\Downloads\\Game2D_H\\assets\\scripts\\player\\sword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8105CCEA-1551-B11D-F5CE-DB778B5BD4BE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\player\\sword.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8105CCEA-1551-B11D-F5CE-DB778B5BD4BE}|Assembly-CSharp.csproj|C:\\Users\\tuankiet\\Downloads\\Game2D_H\\assets\\scripts\\weaponinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8105CCEA-1551-B11D-F5CE-DB778B5BD4BE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weaponinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8105CCEA-1551-B11D-F5CE-DB778B5BD4BE}|Assembly-CSharp.csproj|C:\\Users\\tuankiet\\Downloads\\Game2D_H\\assets\\scripts\\inventoryslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8105CCEA-1551-B11D-F5CE-DB778B5BD4BE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\inventoryslot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8105CCEA-1551-B11D-F5CE-DB778B5BD4BE}|Assembly-CSharp.csproj|C:\\Users\\tuankiet\\Downloads\\Game2D_H\\assets\\scripts\\management\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8105CCEA-1551-B11D-F5CE-DB778B5BD4BE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\management\\singleton.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8105CCEA-1551-B11D-F5CE-DB778B5BD4BE}|Assembly-CSharp.csproj|C:\\Users\\tuankiet\\Downloads\\Game2D_H\\assets\\scripts\\mousefollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8105CCEA-1551-B11D-F5CE-DB778B5BD4BE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mousefollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8105CCEA-1551-B11D-F5CE-DB778B5BD4BE}|Assembly-CSharp.csproj|C:\\Users\\tuankiet\\Downloads\\Game2D_H\\assets\\scripts\\iweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8105CCEA-1551-B11D-F5CE-DB778B5BD4BE}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\iweapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -42,7 +114,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,16 +134,78 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "EnemyAI.cs",
               "DocumentMoniker": "C:\\Users\\tuankiet\\Downloads\\Game2D_H\\Assets\\Scripts\\Enemies\\EnemyAI.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies\\EnemyAI.cs",
               "ToolTip": "C:\\Users\\tuankiet\\Downloads\\Game2D_H\\Assets\\Scripts\\Enemies\\EnemyAI.cs",
               "RelativeToolTip": "Assets\\Scripts\\Enemies\\EnemyAI.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAgwB0AAAA+AAAAAAAAAA==",
+              "ViewState": "AgIAACYAAAAAAAAAAAAywGAAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T15:26:58.747Z",
+              "WhenOpened": "2024-11-15T17:05:08.313Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Shooter.cs",
+              "DocumentMoniker": "C:\\Users\\tuankiet\\Downloads\\Game2D_H\\Assets\\Scripts\\Enemies\\Shooter.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies\\Shooter.cs",
+              "ToolTip": "C:\\Users\\tuankiet\\Downloads\\Game2D_H\\Assets\\Scripts\\Enemies\\Shooter.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemies\\Shooter.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAwwFYAAABQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T16:57:29.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IEnemy.cs",
+              "DocumentMoniker": "C:\\Users\\tuankiet\\Downloads\\Game2D_H\\Assets\\Scripts\\Enemies\\IEnemy.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies\\IEnemy.cs",
+              "ToolTip": "C:\\Users\\tuankiet\\Downloads\\Game2D_H\\Assets\\Scripts\\Enemies\\IEnemy.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemies\\IEnemy.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T16:57:26.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CameraController.cs",
+              "DocumentMoniker": "C:\\Users\\tuankiet\\Downloads\\Game2D_H\\Assets\\Scripts\\Management\\CameraController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Management\\CameraController.cs",
+              "ToolTip": "C:\\Users\\tuankiet\\Downloads\\Game2D_H\\Assets\\Scripts\\Management\\CameraController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Management\\CameraController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T15:53:02.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Knockback.cs",
+              "DocumentMoniker": "C:\\Users\\tuankiet\\Downloads\\Game2D_H\\Assets\\Scripts\\Misc\\Knockback.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Misc\\Knockback.cs",
+              "ToolTip": "C:\\Users\\tuankiet\\Downloads\\Game2D_H\\Assets\\Scripts\\Misc\\Knockback.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Misc\\Knockback.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T15:30:34.182Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PlayerHeath.cs",
+              "DocumentMoniker": "C:\\Users\\tuankiet\\Downloads\\Game2D_H\\Assets\\Scripts\\Player\\PlayerHeath.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerHeath.cs",
+              "ToolTip": "C:\\Users\\tuankiet\\Downloads\\Game2D_H\\Assets\\Scripts\\Player\\PlayerHeath.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerHeath.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACMAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T15:23:24.829Z"
             },
             {
               "$type": "Document",
@@ -81,88 +215,239 @@
               "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies\\EnemyPathfinding.cs",
               "ToolTip": "C:\\Users\\tuankiet\\Downloads\\Game2D_H\\Assets\\Scripts\\Enemies\\EnemyPathfinding.cs",
               "RelativeToolTip": "Assets\\Scripts\\Enemies\\EnemyPathfinding.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAXAAAAAAAAAA==",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wCoAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T15:23:19.108Z",
+              "WhenOpened": "2024-11-12T09:29:02.469Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Knockback.cs",
-              "DocumentMoniker": "C:\\Users\\tuankiet\\Downloads\\Game2D_H\\Assets\\Scripts\\Misc\\Knockback.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Misc\\Knockback.cs",
-              "ToolTip": "C:\\Users\\tuankiet\\Downloads\\Game2D_H\\Assets\\Scripts\\Misc\\Knockback.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Misc\\Knockback.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 17,
+              "Title": "SpriteFade.cs",
+              "DocumentMoniker": "C:\\Users\\tuankiet\\Downloads\\Game2D_H\\Assets\\Scripts\\SpriteFade.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SpriteFade.cs",
+              "ToolTip": "C:\\Users\\tuankiet\\Downloads\\Game2D_H\\Assets\\Scripts\\SpriteFade.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SpriteFade.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBoAAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T15:21:26.913Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-12T08:25:03.112Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 13,
+              "Title": "MagicLaser.cs",
+              "DocumentMoniker": "C:\\Users\\tuankiet\\Downloads\\Game2D_H\\Assets\\Scripts\\MagicLaser.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MagicLaser.cs",
+              "ToolTip": "C:\\Users\\tuankiet\\Downloads\\Game2D_H\\Assets\\Scripts\\MagicLaser.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MagicLaser.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwCUAAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-12T07:34:38.333Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
               "Title": "DamageSource.cs",
               "DocumentMoniker": "C:\\Users\\tuankiet\\Downloads\\Game2D_H\\Assets\\Scripts\\Player\\DamageSource.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\DamageSource.cs",
               "ToolTip": "C:\\Users\\tuankiet\\Downloads\\Game2D_H\\Assets\\Scripts\\Player\\DamageSource.cs",
               "RelativeToolTip": "Assets\\Scripts\\Player\\DamageSource.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T15:20:34.695Z",
+              "WhenOpened": "2024-11-12T07:30:58.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Detructible.cs",
+              "DocumentMoniker": "C:\\Users\\tuankiet\\Downloads\\Game2D_H\\Assets\\Scripts\\Misc\\Detructible.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Misc\\Detructible.cs",
+              "ToolTip": "C:\\Users\\tuankiet\\Downloads\\Game2D_H\\Assets\\Scripts\\Misc\\Detructible.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Misc\\Detructible.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T17:22:25.577Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Indestructible.cs",
+              "DocumentMoniker": "C:\\Users\\tuankiet\\Downloads\\Game2D_H\\Assets\\Scripts\\Indestructible.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Indestructible.cs",
+              "ToolTip": "C:\\Users\\tuankiet\\Downloads\\Game2D_H\\Assets\\Scripts\\Indestructible.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Indestructible.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T17:14:10.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Projectile.cs",
+              "DocumentMoniker": "C:\\Users\\tuankiet\\Downloads\\Game2D_H\\Assets\\Scripts\\Projectile.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Projectile.cs",
+              "ToolTip": "C:\\Users\\tuankiet\\Downloads\\Game2D_H\\Assets\\Scripts\\Projectile.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Projectile.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T16:19:03.933Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PlayerController.cs",
-              "DocumentMoniker": "C:\\Users\\tuankiet\\Downloads\\Game2D_H\\Assets\\Scripts\\Player\\PlayerController.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerController.cs",
-              "ToolTip": "C:\\Users\\tuankiet\\Downloads\\Game2D_H\\Assets\\Scripts\\Player\\PlayerController.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerController.cs",
-              "ViewState": "AgIAAEMAAAAAAAAAAAAYwGEAAAAmAAAAAAAAAA==",
+              "DocumentIndex": 15,
+              "Title": "Staff.cs",
+              "DocumentMoniker": "C:\\Users\\tuankiet\\Downloads\\Game2D_H\\Assets\\Scripts\\Staff.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Staff.cs",
+              "ToolTip": "C:\\Users\\tuankiet\\Downloads\\Game2D_H\\Assets\\Scripts\\Staff.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Staff.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T14:58:16.296Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-11T15:06:44.167Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 6,
+              "Title": "Bow.cs",
+              "DocumentMoniker": "C:\\Users\\tuankiet\\Downloads\\Game2D_H\\Assets\\Scripts\\Bow.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Bow.cs",
+              "ToolTip": "C:\\Users\\tuankiet\\Downloads\\Game2D_H\\Assets\\Scripts\\Bow.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Bow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAABZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T15:04:18.422Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "MouseFollow.cs",
+              "DocumentMoniker": "C:\\Users\\tuankiet\\Downloads\\Game2D_H\\Assets\\Scripts\\MouseFollow.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MouseFollow.cs",
+              "ToolTip": "C:\\Users\\tuankiet\\Downloads\\Game2D_H\\Assets\\Scripts\\MouseFollow.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MouseFollow.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T14:39:06.086Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "SingleTon.cs",
+              "DocumentMoniker": "C:\\Users\\tuankiet\\Downloads\\Game2D_H\\Assets\\Scripts\\Management\\SingleTon.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Management\\SingleTon.cs",
+              "ToolTip": "C:\\Users\\tuankiet\\Downloads\\Game2D_H\\Assets\\Scripts\\Management\\SingleTon.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Management\\SingleTon.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T13:51:51.43Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "InventorySlot.cs",
+              "DocumentMoniker": "C:\\Users\\tuankiet\\Downloads\\Game2D_H\\Assets\\Scripts\\InventorySlot.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\InventorySlot.cs",
+              "ToolTip": "C:\\Users\\tuankiet\\Downloads\\Game2D_H\\Assets\\Scripts\\InventorySlot.cs",
+              "RelativeToolTip": "Assets\\Scripts\\InventorySlot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T12:09:48.675Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "WeaponInfo.cs",
+              "DocumentMoniker": "C:\\Users\\tuankiet\\Downloads\\Game2D_H\\Assets\\Scripts\\WeaponInfo.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\WeaponInfo.cs",
+              "ToolTip": "C:\\Users\\tuankiet\\Downloads\\Game2D_H\\Assets\\Scripts\\WeaponInfo.cs",
+              "RelativeToolTip": "Assets\\Scripts\\WeaponInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T12:03:33.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
               "Title": "Sword.cs",
               "DocumentMoniker": "C:\\Users\\tuankiet\\Downloads\\Game2D_H\\Assets\\Scripts\\Player\\Sword.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\Sword.cs",
               "ToolTip": "C:\\Users\\tuankiet\\Downloads\\Game2D_H\\Assets\\Scripts\\Player\\Sword.cs",
               "RelativeToolTip": "Assets\\Scripts\\Player\\Sword.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAQwCkAAAARAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBsAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T14:40:43.991Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-11T11:22:13.183Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "EnemyHealth.cs",
-              "DocumentMoniker": "C:\\Users\\tuankiet\\Downloads\\Game2D_H\\Assets\\Scripts\\Enemies\\EnemyHealth.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies\\EnemyHealth.cs",
-              "ToolTip": "C:\\Users\\tuankiet\\Downloads\\Game2D_H\\Assets\\Scripts\\Enemies\\EnemyHealth.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Enemies\\EnemyHealth.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB4AAAAWAAAAAAAAAA==",
+              "DocumentIndex": 14,
+              "Title": "ActiveWeapon.cs",
+              "DocumentMoniker": "C:\\Users\\tuankiet\\Downloads\\Game2D_H\\Assets\\Scripts\\Player\\ActiveWeapon.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\ActiveWeapon.cs",
+              "ToolTip": "C:\\Users\\tuankiet\\Downloads\\Game2D_H\\Assets\\Scripts\\Player\\ActiveWeapon.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\ActiveWeapon.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAkwEIAAABDAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T08:46:38.318Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-11T11:19:05.734Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 25,
+              "Title": "IWeapon.cs",
+              "DocumentMoniker": "C:\\Users\\tuankiet\\Downloads\\Game2D_H\\Assets\\Scripts\\IWeapon.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\IWeapon.cs",
+              "ToolTip": "C:\\Users\\tuankiet\\Downloads\\Game2D_H\\Assets\\Scripts\\IWeapon.cs",
+              "RelativeToolTip": "Assets\\Scripts\\IWeapon.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAQwAMAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T11:17:59.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ActiveInventory.cs",
+              "DocumentMoniker": "C:\\Users\\tuankiet\\Downloads\\Game2D_H\\Assets\\Scripts\\UI\\ActiveInventory.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\UI\\ActiveInventory.cs",
+              "ToolTip": "C:\\Users\\tuankiet\\Downloads\\Game2D_H\\Assets\\Scripts\\UI\\ActiveInventory.cs",
+              "RelativeToolTip": "Assets\\Scripts\\UI\\ActiveInventory.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAqwC4AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T11:13:18.6Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Users\\tuankiet\\Downloads\\Game2D_H\\Assets\\Scripts\\Player\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Player\\PlayerController.cs",
+              "ToolTip": "C:\\Users\\tuankiet\\Downloads\\Game2D_H\\Assets\\Scripts\\Player\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Player\\PlayerController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T10:54:15.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "Flash.cs",
               "DocumentMoniker": "C:\\Users\\tuankiet\\Downloads\\Game2D_H\\Assets\\Scripts\\Misc\\Flash.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\Misc\\Flash.cs",
               "ToolTip": "C:\\Users\\tuankiet\\Downloads\\Game2D_H\\Assets\\Scripts\\Misc\\Flash.cs",
               "RelativeToolTip": "Assets\\Scripts\\Misc\\Flash.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-05T08:41:41.131Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-11-11T09:16:05.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "EnemyHealth.cs",
+              "DocumentMoniker": "C:\\Users\\tuankiet\\Downloads\\Game2D_H\\Assets\\Scripts\\Enemies\\EnemyHealth.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Enemies\\EnemyHealth.cs",
+              "ToolTip": "C:\\Users\\tuankiet\\Downloads\\Game2D_H\\Assets\\Scripts\\Enemies\\EnemyHealth.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Enemies\\EnemyHealth.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA6wB0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-11T09:15:26.664Z"
             }
           ]
         },

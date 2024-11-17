@@ -6,9 +6,9 @@ public class Destructible : MonoBehaviour
 {
     [SerializeField] private GameObject destroyVFX;
 
-    private void OnTriggerEnter2D(Collider2D other)
+    private void OnTriggerEnter2D(Collider2D collision)
     {
-        if (other.gameObject.GetComponent<DamageSource>())
+        if (collision.gameObject.GetComponent<DamageSource>() || collision.gameObject.GetComponent<Projectile>())
         {
             Instantiate(destroyVFX, transform.position, Quaternion.identity);
             Destroy(gameObject);

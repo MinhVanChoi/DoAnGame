@@ -60,27 +60,41 @@
     <Analyzer Include="C:\Program Files\Unity\Hub\Editor\2022.3.43f1\Editor\Data\Tools\Unity.SourceGenerators\Unity.Properties.SourceGenerator.dll" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scripts\BaseSingleton.cs" />
     <Compile Include="Assets\Scripts\Player\Player Controls.cs" />
+    <Compile Include="Assets\Scripts\Management\BaseSingleton.cs" />
+    <Compile Include="Assets\Scripts\Enemies\Shooter.cs" />
+    <Compile Include="Assets\Scripts\Staff.cs" />
     <Compile Include="Assets\Scripts\Player\ActiveWeapon.cs" />
+    <Compile Include="Assets\Scripts\Player\PlayerHeath.cs" />
+    <Compile Include="Assets\Scripts\SpriteFade.cs" />
+    <Compile Include="Assets\Scripts\WeaponInfo.cs" />
     <Compile Include="Assets\Scripts\Enemies\EnemyPathfinding.cs" />
+    <Compile Include="Assets\Scripts\Management\AreaExit.cs" />
     <Compile Include="Assets\Scripts\Player\PlayerController.cs" />
+    <Compile Include="Assets\Scripts\Enemies\IEnemy.cs" />
     <Compile Include="Assets\Scripts\Player\SlashAnimation.cs" />
     <Compile Include="Assets\Scripts\Misc\Detructible.cs" />
-    <Compile Include="Assets\Scripts\AreaExit.cs" />
     <Compile Include="Assets\Scripts\Enemies\EnemyHealth.cs" />
-    <Compile Include="Assets\Scripts\UIFade.cs" />
-    <Compile Include="Assets\Scripts\SceneManagement.cs" />
+    <Compile Include="Assets\Scripts\UI\ActiveInventory.cs" />
+    <Compile Include="Assets\Scripts\Management\CameraController.cs" />
+    <Compile Include="Assets\Scripts\Management\SingleTon.cs" />
     <Compile Include="Assets\Scripts\Misc\Knockback.cs" />
-    <Compile Include="Assets\Scripts\SingleTon.cs" />
+    <Compile Include="Assets\Scripts\IWeapon.cs" />
+    <Compile Include="Assets\Scripts\Management\UIFade.cs" />
+    <Compile Include="Assets\Scripts\InventorySlot.cs" />
+    <Compile Include="Assets\Scripts\Management\SceneManagement.cs" />
+    <Compile Include="Assets\Scripts\Projectile.cs" />
+    <Compile Include="Assets\Scripts\MagicLaser.cs" />
+    <Compile Include="Assets\Scripts\Bow.cs" />
+    <Compile Include="Assets\Scripts\Indestructible.cs" />
+    <Compile Include="Assets\Scripts\Management\AreaEntrace.cs" />
+    <Compile Include="Assets\Scripts\MouseFollow.cs" />
     <Compile Include="Assets\Scripts\Player\Sword.cs" />
     <Compile Include="Assets\Scripts\Enemies\EnemyAI.cs" />
     <Compile Include="Assets\Scripts\Misc\Parallax.cs" />
     <Compile Include="Assets\Scripts\Misc\TransparentDetection.cs" />
     <Compile Include="Assets\Scripts\Misc\Flash.cs" />
-    <Compile Include="Assets\Scripts\CameraController.cs" />
     <Compile Include="Assets\Scripts\Player\DamageSource.cs" />
-    <Compile Include="Assets\Scripts\AreaEntrace.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Assets\TileMap\Fantasy\read_me.txt" />
