@@ -5,9 +5,9 @@ using UnityEngine;
 public class EnemyAI : MonoBehaviour
 {
     [SerializeField] private float roamChangeDirFloat = 2f;
-    [SerializeField] private float attackRange = 5f;
+    [SerializeField] private float attackRange = 0f;
     [SerializeField] private MonoBehaviour enemyType;
-    [SerializeField] private float attackCoolDown = 2f;
+    [SerializeField] private float attackCooldown = 2f;
     [SerializeField] private bool stopMovingWhileAttacking = false;
 
     private bool canAttack = true;
@@ -17,6 +17,7 @@ public class EnemyAI : MonoBehaviour
         Roaming,
         Attacking
     }
+
     private Vector2 roamPosition;
     private float timeRoaming = 0f;
 
@@ -28,14 +29,17 @@ public class EnemyAI : MonoBehaviour
         enemyPathfinding = GetComponent<EnemyPathfinding>();
         state = State.Roaming;
     }
+
     private void Start()
     {
-        roamPosition = GetRoamPosition();
+        roamPosition = GetRoamingPosition();
     }
+
     private void Update()
     {
         MovementStateControl();
     }
+
     private void MovementStateControl()
     {
         switch (state)
@@ -44,11 +48,13 @@ public class EnemyAI : MonoBehaviour
             case State.Roaming:
                 Roaming();
                 break;
+
             case State.Attacking:
                 Attacking();
                 break;
         }
     }
+
     private void Roaming()
     {
         timeRoaming += Time.deltaTime;
@@ -59,9 +65,10 @@ public class EnemyAI : MonoBehaviour
         {
             state = State.Attacking;
         }
+
         if (timeRoaming > roamChangeDirFloat)
         {
-            roamPosition = GetRoamPosition();
+            roamPosition = GetRoamingPosition();
         }
     }
 
@@ -71,10 +78,13 @@ public class EnemyAI : MonoBehaviour
         {
             state = State.Roaming;
         }
+
         if (attackRange != 0 && canAttack)
         {
+
             canAttack = false;
             (enemyType as IEnemy).Attack();
+
             if (stopMovingWhileAttacking)
             {
                 enemyPathfinding.StopMoving();
@@ -83,19 +93,20 @@ public class EnemyAI : MonoBehaviour
             {
                 enemyPathfinding.MoveTo(roamPosition);
             }
-            StartCoroutine(AttackCoolDownRoutine());
+
+            StartCoroutine(AttackCooldownRoutine());
         }
-        
     }
-    private IEnumerator AttackCoolDownRoutine()
+
+    private IEnumerator AttackCooldownRoutine()
     {
-        yield return new WaitForSeconds(attackCoolDown);
+        yield return new WaitForSeconds(attackCooldown);
         canAttack = true;
     }
-    private Vector2 GetRoamPosition()
-    {
-        timeRoaming = 0;
-        return new Vector2(Random.Range(-1f, 1f), Random.Range(-1f, 1f)).normalized;
 
+    private Vector2 GetRoamingPosition()
+    {
+        timeRoaming = 0f;
+        return new Vector2(Random.Range(-1f, 1f), Random.Range(-1f, 1f)).normalized;
     }
 }

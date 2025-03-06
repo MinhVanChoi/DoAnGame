@@ -12,7 +12,8 @@ public class SpriteFade : MonoBehaviour
     {
         spriteRenderer = GetComponent<SpriteRenderer>();
     }
-    public IEnumerator SlowFaceRoutine()
+
+    public IEnumerator SlowFadeRoutine()
     {
         float elapsedTime = 0;
         float startValue = spriteRenderer.color.a;
@@ -20,10 +21,11 @@ public class SpriteFade : MonoBehaviour
         while (elapsedTime < fadeTime)
         {
             elapsedTime += Time.deltaTime;
-            float newAlpha = Mathf.Lerp(startValue, 0, elapsedTime / fadeTime);
+            float newAlpha = Mathf.Lerp(startValue, 0f, elapsedTime / fadeTime);
             spriteRenderer.color = new Color(spriteRenderer.color.r, spriteRenderer.color.g, spriteRenderer.color.b, newAlpha);
             yield return null;
         }
+
         Destroy(gameObject);
     }
 }

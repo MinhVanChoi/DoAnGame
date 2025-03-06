@@ -26,6 +26,7 @@ public class PlayerController : Singleton<PlayerController>
     protected override void Awake()
     {
         base.Awake();
+
         playerControls = new PlayerControls();
         rb = GetComponent<Rigidbody2D>();
         myAnimator = GetComponent<Animator>();
@@ -38,11 +39,18 @@ public class PlayerController : Singleton<PlayerController>
         playerControls.Combat.Dash.performed += _ => Dash();
 
         startingMoveSpeed = moveSpeed;
+
+        ActiveInventory.Instance.EquipStartingWeapon();
     }
 
     private void OnEnable()
     {
         playerControls.Enable();
+    }
+
+    private void OnDisable()
+    {
+        playerControls.Disable();
     }
 
     private void Update()
@@ -55,10 +63,12 @@ public class PlayerController : Singleton<PlayerController>
         AdjustPlayerFacingDirection();
         Move();
     }
+
     public Transform GetWeaponCollider()
     {
         return weaponCollider;
     }
+
     private void PlayerInput()
     {
         movement = playerControls.Movement.Move.ReadValue<Vector2>();
@@ -69,10 +79,8 @@ public class PlayerController : Singleton<PlayerController>
 
     private void Move()
     {
-        if (knockback.GettingKnockedBack)
-        {
-            return;
-        }
+        if (knockback.GettingKnockedBack || PlayerHealth.Instance.isDead) { return; }
+
         rb.MovePosition(rb.position + movement * (moveSpeed * Time.fixedDeltaTime));
     }
 
@@ -95,8 +103,9 @@ public class PlayerController : Singleton<PlayerController>
 
     private void Dash()
     {
-        if (!isDashing)
+        if (!isDashing && Stamina.Instance.CurrentStamina > 0)
         {
+            Stamina.Instance.UseStamina();
             isDashing = true;
             moveSpeed *= dashSpeed;
             myTrailRenderer.emitting = true;

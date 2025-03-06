@@ -71,5 +71,4 @@ public class TransparentDetection : MonoBehaviour
             yield return null;
         }
     }
-
 }

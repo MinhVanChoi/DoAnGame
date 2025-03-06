@@ -18,6 +18,7 @@ GameObject:
   - component: {fileID: 5413181336535057963}
   - component: {fileID: 177123799379496194}
   - component: {fileID: 8870539279410031782}
+  - component: {fileID: 610945864183602049}
   m_Layer: 0
   m_Name: Ghost
   m_TagString: Untagged
@@ -182,7 +183,7 @@ MonoBehaviour:
   roamChangeDirFloat: 2
   attackRange: 5
   enemyType: {fileID: 8870539279410031782}
-  attackCoolDown: 2
+  attackCooldown: 2
   stopMovingWhileAttacking: 1
 --- !u!114 &6040351084060291316
 MonoBehaviour:
@@ -198,6 +199,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   startingHealth: 3
   deathVFXPrefab: {fileID: 7190854670810917406, guid: eabb8a1514c42a641adf58f2780289b0, type: 3}
+  knockBackThrust: 15
 --- !u!114 &5413181336535057963
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -247,3 +249,18 @@ MonoBehaviour:
   restTime: 0.5
   stagger: 1
   oscillate: 1
+--- !u!114 &610945864183602049
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 689725038882194768}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7166689dd8ef82a49bdbfc6afe3e1617, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  goldCoin: {fileID: 812732679069113832, guid: 3c86d4a051f96134b8241c5313d904af, type: 3}
+  healthGlobe: {fileID: 812732679069113832, guid: 9a08ee025decdb3419bb1f1c5000e633, type: 3}
+  staminaGlobe: {fileID: 812732679069113832, guid: 4a02ba0428ac2f34f8e39520865ec5f4, type: 3}

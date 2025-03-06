@@ -7,7 +7,7 @@ public class EnemyPathfinding : MonoBehaviour
     [SerializeField] private float moveSpeed = 2f;
 
     private Rigidbody2D rb;
-    private Vector2 movedir;
+    private Vector2 moveDir;
     private Knockback knockback;
     private SpriteRenderer spriteRenderer;
 
@@ -17,29 +17,30 @@ public class EnemyPathfinding : MonoBehaviour
         knockback = GetComponent<Knockback>();
         rb = GetComponent<Rigidbody2D>();
     }
+
     private void FixedUpdate()
     {
-        if (knockback.GettingKnockedBack)
-        {
-            return;
-        }
-        rb.MovePosition(rb.position + movedir * (moveSpeed * Time.fixedDeltaTime));
+        if (knockback.GettingKnockedBack) { return; }
 
-        if (movedir.x < 0)
+        rb.MovePosition(rb.position + moveDir * (moveSpeed * Time.fixedDeltaTime));
+
+        if (moveDir.x < 0)
         {
             spriteRenderer.flipX = true;
         }
-        else
+        else if (moveDir.x > 0)
         {
             spriteRenderer.flipX = false;
         }
     }
+
     public void MoveTo(Vector2 targetPosition)
     {
-        movedir = targetPosition;
+        moveDir = targetPosition;
     }
+
     public void StopMoving()
     {
-        movedir = Vector3.zero;
+        moveDir = Vector3.zero;
     }
 }
